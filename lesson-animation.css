@@ -1,0 +1,42 @@
+/* Step-by-step examples embedded in the chapter reader. */
+.lesson-animation {
+  --animation-border: var(--line);
+  margin: 24px 0 38px;
+  padding: clamp(16px, 3vw, 25px);
+  border: 1px solid var(--animation-border);
+  border-radius: 8px;
+  background: var(--surface);
+  scroll-margin-top: 92px;
+}
+.lesson-animation .eyebrow { margin: 0 0 6px; }
+.lesson-animation h2 { color: var(--navy); font-size: clamp(19px, 2.5vw, 24px); margin: 0 0 16px; line-height: 1.25; }
+.animation-nodes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 128px), 1fr)); gap: 8px; }
+.animation-node {
+  display: grid;
+  align-content: start;
+  gap: 6px;
+  min-width: 0;
+  min-height: 75px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+  overflow-wrap: anywhere;
+}
+.animation-node.current { border-color: var(--teal); background: var(--teal-soft); }
+.animation-node > span:first-child { color: var(--muted); font-size: 12px; }
+.animation-node strong { color: var(--ink); font-size: 15px; font-variant-numeric: tabular-nums; }
+.animation-node.current strong { color: var(--teal); }
+.animation-bar { display: block; height: 4px; border-radius: 2px; margin: 2px 0; background: var(--line); overflow: hidden; }
+.animation-bar::after { display: block; height: 100%; width: var(--level); background: var(--teal); content: ""; }
+.animation-node.current .animation-bar::after { animation: lesson-bar-in .35s ease-out both; transform-origin: left; }
+@keyframes lesson-bar-in { from { transform: scaleX(.15); } to { transform: scaleX(1); } }
+.animation-caption { min-height: 3em; line-height: 1.55; font-size: 14px; margin: 12px 0; }
+.animation-timeline { display: flex; align-items: end; gap: 14px; margin-bottom: 12px; color: var(--muted); font-size: 12px; }
+.animation-timeline label { flex: 1; min-width: 0; display: grid; gap: 4px; }
+.animation-timeline input { width: 100%; margin: 0; accent-color: var(--teal); }
+.animation-timeline [data-animation-progress] { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.animation-controls { display: flex; flex-wrap: wrap; gap: 7px; }
+.animation-controls button:disabled { opacity: .52; cursor: default; }
+@media print { .lesson-animation { display: none; } }
+

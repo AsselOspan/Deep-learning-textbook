@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Авторский университетский учебник по глубокому обучению. 15 глав, лабораторные работы, математические примеры и интерактивные модели.">
+  <meta name="color-scheme" content="light dark">
+  <title>Глубокое обучение — интерактивный электронный учебник</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <script>try{document.documentElement.dataset.theme=localStorage.getItem('dl-theme')||'light'}catch(e){}</script>
+  <script defer src="content/data.js"></script>
+  <script defer src="math.js"></script>
+  <link rel="stylesheet" href="lesson-animation.css">
+  <script defer src="animations-01-05.js"></script>
+  <script defer src="animations-06-10.js"></script>
+  <script defer src="animations-11-15.js"></script>
+  <script defer src="lesson-animation.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Перейти к содержанию</a>
+  <header class="topbar">
+    <button class="icon-button mobile-menu" id="menu-toggle" aria-label="Открыть меню" aria-expanded="false" aria-controls="sidebar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+    <a class="brand" href="#home" aria-label="Глубокое обучение — главная"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M7 7l18 9L7 25M7 7v18M7 16h18"/><circle cx="7" cy="7" r="3"/><circle cx="7" cy="16" r="3"/><circle cx="7" cy="25" r="3"/><circle cx="25" cy="16" r="3"/></svg></span><span>Глубокое обучение<small>Интерактивный электронный учебник</small></span></a>
+    <div class="top-actions"><button class="search-open" id="search-open" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Поиск по учебнику</span><kbd>Ctrl K</kbd></button><button class="icon-button" id="theme-toggle" aria-label="Включить тёмную тему"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2Z"/></svg></button></div>
+  </header>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Навигация по учебнику">
+      <nav class="primary-nav"><a href="#home" data-route="home">Обзор учебника</a><a href="#guide" data-route="guide">Как пользоваться</a><a href="#glossary" data-route="glossary">Глоссарий</a><a href="#interactive" data-route="interactive">Интерактивные модели</a><a href="#bibliography" data-route="bibliography">Литература</a><a href="#bookmarks" data-route="bookmarks">Мои закладки <span id="bookmark-count">0</span></a></nav>
+      <div class="nav-heading">Содержание <span>15 глав</span></div>
+      <nav id="chapter-nav" class="chapter-nav" aria-label="Главы и лабораторные"></nav>
+      <section class="sidebar-progress" aria-label="Прогресс обучения"><div><strong>Ваш прогресс</strong><span id="progress-label">0 из 15</span></div><progress id="total-progress" max="15" value="0">0 из 15</progress><small>Сохраняется в этом браузере</small></section>
+      <footer class="sidebar-footer">Оспан Әсел Ғалымжанқызы<br>КазНУ имени аль-Фараби</footer>
+    </aside>
+    <button id="menu-backdrop" class="menu-backdrop" aria-label="Закрыть меню" hidden></button>
+    <main id="main" tabindex="-1"></main>
+  </div>
+  <dialog id="search-dialog" aria-labelledby="search-title"><div class="search-dialog-head"><h2 id="search-title">Поиск по учебнику</h2><button class="icon-button" id="search-close" aria-label="Закрыть поиск"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div><label class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search-input" type="search" autocomplete="off" placeholder="Например, градиент или заморозка" aria-label="Искать слово или фразу"></label><p id="search-status" class="muted" aria-live="polite">Введите не менее двух символов.</p><div id="search-results"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">Для навигации, поиска и интерактивных моделей требуется JavaScript. Печатная версия учебника доступна в поставляемом комплекте DOCX и PDF.</p></noscript>
+</body>
+</html>
