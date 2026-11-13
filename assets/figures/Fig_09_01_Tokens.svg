@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="540" viewBox="0 0 1950 540">
+<rect width="100%" height="100%" fill="white"/>
+<text x="75" y="90" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="51" font-weight="700" fill="#17444B">Путь описания фильма через модель</text>
+<rect x="75" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="268" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Токены</text>
+<text x="268" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Нижний регистр</text>
+<text x="268" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Ограничение длины</text>
+<path d="M 473 270 H 523" stroke="#357878" stroke-width="6"/><path d="M 526 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="546" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="739" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Индексы</text>
+<text x="739" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">PAD = 0</text>
+<text x="739" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">UNK = 1</text>
+<path d="M 944 270 H 994" stroke="#357878" stroke-width="6"/><path d="M 997 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="1018" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="1211" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Признаки</text>
+<text x="1211" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Частоты слов</text>
+<text x="1211" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">или эмбеддинги</text>
+<path d="M 1416 270 H 1466" stroke="#357878" stroke-width="6"/><path d="M 1469 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="1489" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="1682" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Решение</text>
+<text x="1682" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Наивный Байес</text>
+<text x="1682" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">или GRU</text>
+<text x="75" y="456" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="35" font-weight="400" fill="#506468">Словарь строится только по обучающим описаниям. Название фильма исключено из признаков.</text>
+</svg>

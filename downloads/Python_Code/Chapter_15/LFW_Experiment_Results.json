@@ -1,0 +1,87 @@
+{
+  "source": {
+    "repository": "bitmind/lfw",
+    "revision": "274dfbca8b2dc9c6d21ae80f8627c911222eb347",
+    "subset": "first600 mirror rows; own central60% crop; NOT asserted funneled-equivalent",
+    "manifest_sha256": "4fa5f9d66faeab9cb9d2100121c2a6da99c4ed6df29169f338697a5c43b3fd26"
+  },
+  "seed": 2026,
+  "prior_seed": 55,
+  "identities": {
+    "train": 230,
+    "val": 49,
+    "test": 50
+  },
+  "images": {
+    "train": 306,
+    "val": 80,
+    "test": 69
+  },
+  "epochs": 3,
+  "final_training": {
+    "recon_bce": 702.409522,
+    "kl": 0.591786,
+    "discriminator": 0.578102,
+    "generator": 0.933225
+  },
+  "validation": {
+    "vae_mu_mse": 0.053893,
+    "vae_mu_bce": 702.864807,
+    "vae_kl": 0.338924
+  },
+  "test": {
+    "vae_mu_mse": 0.05695,
+    "vae_mu_bce": 703.077148,
+    "vae_kl": 0.359993
+  },
+  "prior": {
+    "VAE": {
+      "reference_size": 64,
+      "nearest_train_mse": 0.016469,
+      "nearest_heldout_mse": 0.01973,
+      "sample_pair_mse": 0.004673
+    },
+    "GAN": {
+      "reference_size": 64,
+      "nearest_train_mse": 0.017866,
+      "nearest_heldout_mse": 0.023434,
+      "sample_pair_mse": 0.005588
+    }
+  },
+  "notebook": {
+    "epochs": 1,
+    "executed_code_cells": 4,
+    "errors": 0,
+    "test": {
+      "vae_mu_mse": 0.059673,
+      "vae_mu_bce": 708.666504,
+      "vae_kl": 0.841519
+    }
+  },
+  "scope": "Small CPU pipeline experiment; not a SOTA comparison, official LFW verification protocol, or privacy proof.",
+  "train_mean_baseline": {
+    "train_mse": 0.043028165,
+    "val_mse": 0.044867843,
+    "test_mse": 0.048841968
+  },
+  "cnn_decoder_check": {
+    "params32": 43281,
+    "params64": 45209,
+    "batch_shape32": [
+      4,
+      1,
+      32,
+      32
+    ],
+    "batch_shape64": [
+      4,
+      1,
+      64,
+      64
+    ],
+    "changed_parameter_tensors32": 6,
+    "loss_before": 708.94519043,
+    "loss_after": 708.902710961,
+    "scope": "synthetic fixed-target one-step check32; shape-only64, not LFW training"
+  }
+}

@@ -1,0 +1,3607 @@
+{
+  "repository": "bitmind/lfw",
+  "revision": "274dfbca8b2dc9c6d21ae80f8627c911222eb347",
+  "subset": "first rows",
+  "rows": [
+    {
+      "identity": "German_Khan",
+      "filename": "German_Khan_0001.jpg",
+      "sha256": "f5a6295219a42d777063f8ced12fba360300c212b6955cc91481e96523732df6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stefano_Gabbana",
+      "filename": "Stefano_Gabbana_0001.jpg",
+      "sha256": "64658ab50bd3a6de28b0961e4eab888f97fff50f07eb19f3109fd75a5c523877",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dragan_Covic",
+      "filename": "Dragan_Covic_0001.jpg",
+      "sha256": "375840e58db3a4307739a4b6bfd744cc7efd302cdf0403e4e83d33b3808dbc94",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeff_Hornacek",
+      "filename": "Jeff_Hornacek_0001.jpg",
+      "sha256": "6ccfff2e0eb94dca8b4c5730244b91706fc8e9d7c7aad0ee86fbb56e7307e882",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sureyya_Ayhan",
+      "filename": "Sureyya_Ayhan_0001.jpg",
+      "sha256": "f8804b77bfd307a285bef84dc8874c7cdd510866f2c93c54d80acbc9d2475671",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Deb_Santos",
+      "filename": "Deb_Santos_0001.jpg",
+      "sha256": "f4a19e3d6fb1f4b6473fd6040b66ca9d7ef8eb261abbb8ee44a5907edd599bdf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bob_Newhart",
+      "filename": "Bob_Newhart_0001.jpg",
+      "sha256": "b60154ac94acb74703e222e2f7763f7a71c4621bbae9c39b68e5cacfd435a3ab",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Wang_Hailan",
+      "filename": "Wang_Hailan_0001.jpg",
+      "sha256": "289c5269f190c8eb53c4d3254349acf28805cf3937f269f3093f739daedefd6c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_McNulty",
+      "filename": "Paul_McNulty_0002.jpg",
+      "sha256": "45021723445743fc254df27f1c15c7a67bdbd34c598d42fcb64ba0c5f04b1fc4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_McNulty",
+      "filename": "Paul_McNulty_0001.jpg",
+      "sha256": "63b77201f40d3b1beb21ccb00b31fc70d58b4015c18518d7d4de91c8b7e886e7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jimmy_Iovine",
+      "filename": "Jimmy_Iovine_0001.jpg",
+      "sha256": "c1b006c3c77d79664e46b292760cc568512128949b782445b6c750d23d5d62a4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Claudia_Pechstein",
+      "filename": "Claudia_Pechstein_0001.jpg",
+      "sha256": "8f575fbf15ff3df60a7e3110bbf459e986603c19f6f6eff00ffdfb8c39444d7c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Claudia_Pechstein",
+      "filename": "Claudia_Pechstein_0003.jpg",
+      "sha256": "75dee6bc4a92b26da76ea09d34412b8b602a9a8d602385a4fc132a3adb650b21",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Claudia_Pechstein",
+      "filename": "Claudia_Pechstein_0002.jpg",
+      "sha256": "5218c2942a22db6eeaf992e1508973f2c862c4946865bd3acd84f7ace9972464",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Claudia_Pechstein",
+      "filename": "Claudia_Pechstein_0005.jpg",
+      "sha256": "cee6da2a472abe1f3f5ba8d056125069c58337df87bae6480ae95e675173a6d7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Claudia_Pechstein",
+      "filename": "Claudia_Pechstein_0004.jpg",
+      "sha256": "77a9f45d55fbb24a2f9efa709994e7c129f47258d476b629f4c58c153569a10a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ranil_Wickremasinghe",
+      "filename": "Ranil_Wickremasinghe_0002.jpg",
+      "sha256": "ff2930f86db555a0f4c7a5eab16a093ad69d6880baab4dc953680cba7a009d5c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ranil_Wickremasinghe",
+      "filename": "Ranil_Wickremasinghe_0003.jpg",
+      "sha256": "90e9ecdf7071bb04447232cdeb8ab005ea63c1278b47ff347613c0b19a38f7b4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ranil_Wickremasinghe",
+      "filename": "Ranil_Wickremasinghe_0001.jpg",
+      "sha256": "5936f18252410bd5a6c306185f5bbfc53ee88f2a6013763a7933466d92e03fb4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ben_Chandler",
+      "filename": "Ben_Chandler_0001.jpg",
+      "sha256": "5ea2fbdc82ab7cbe45c1cd5f4d0c519551ca6d2f0a5cb14c78c0836a275febd5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Komara",
+      "filename": "Mark_Komara_0001.jpg",
+      "sha256": "07cc89d1515ea1b280ab306ecf30ff8e480f04a70a02066b8f866307dab0abf5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rand_Beers",
+      "filename": "Rand_Beers_0001.jpg",
+      "sha256": "dbb05c21c8ca61f45c7bcc1a2c640eaa61dca5b7199d4052f0df976ba323f037",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joanne_Woodward",
+      "filename": "Joanne_Woodward_0001.jpg",
+      "sha256": "296c9bc7ce95c979865729a18f8068108a363fa97b90c4c1dfc830f5769cb500",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Bond",
+      "filename": "John_Bond_0001.jpg",
+      "sha256": "30edb67880b33bf3cc5288861f125fcf98017ae03568e5d99cf0033f8e5b47c0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Reginald_Hudlin",
+      "filename": "Reginald_Hudlin_0001.jpg",
+      "sha256": "3f67cfefd0714feb3a3f713fcef232e65316e067ee9bb19af843a3303e3b4af7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lee_Baca",
+      "filename": "Lee_Baca_0001.jpg",
+      "sha256": "76362bbacf9a9ac2751d43cc62ca1666be5a22f82f0bc1adcaeb831936415e31",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mary-Kate_Olsen",
+      "filename": "Mary-Kate_Olsen_0002.jpg",
+      "sha256": "8a183b973a97d780cfe0bd4fa1ac51fd24f3a4d91b4ec590a7868932ed8aac9e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mary-Kate_Olsen",
+      "filename": "Mary-Kate_Olsen_0003.jpg",
+      "sha256": "5e7c88500c08344296e406dd2155a3a83d662b02ac2a8543b7f3e95f558b6fcc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mary-Kate_Olsen",
+      "filename": "Mary-Kate_Olsen_0001.jpg",
+      "sha256": "ad6930e4fb82eeccf5e650a7bc676dcbfbf50168c9e5bf85de6591d27e170a43",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Emily_Stevens",
+      "filename": "Emily_Stevens_0001.jpg",
+      "sha256": "cae9d2f621eca8d0c3035efb1a1fdcb2d01709ab45328de57bb33bb21067789d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Xiang_Huaicheng",
+      "filename": "Xiang_Huaicheng_0001.jpg",
+      "sha256": "df6ca90c23e3bf7a93869ddb4e390fb6a3566cae05140bbf1c547de9ab89d4c9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Phil_Mickelson",
+      "filename": "Phil_Mickelson_0002.jpg",
+      "sha256": "18ebcaaca88394ad4b8886cd97ce3ea83f9725c2fdf9b296b15ad8b4896988c0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Phil_Mickelson",
+      "filename": "Phil_Mickelson_0001.jpg",
+      "sha256": "7d8899e7a8bc968ab02bef69579bc2861b1ec0e4a4ec7fdd9412c5375e173733",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gerry_Kelly",
+      "filename": "Gerry_Kelly_0001.jpg",
+      "sha256": "6ff1ea4d4abdc1fb13c97d3be091473283cc101319dd1546b70ca98c0b32e359",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0012.jpg",
+      "sha256": "ff9179efe7b5c623ffef7433f37fd77954f259bfd07d97b269af079e95b3c9c5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0006.jpg",
+      "sha256": "d4beaac9d8b172adf24bf16bac62e0697ed0ec8ef9bc443e5df9c6464023e1cf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0007.jpg",
+      "sha256": "6cf5422e6ae603381e91a983367aedf1fee6efd64e1355b5df7c606d9b692a25",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0013.jpg",
+      "sha256": "082a18e92ce9aa70dc82ffcb62813ca42d220bc09c338bc8d19e94ef0266fdf5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0005.jpg",
+      "sha256": "333eab37704009aeecd85e7fa21539aaaf22a7707711124acac7c37c2ccfe302",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0011.jpg",
+      "sha256": "62a28ac61b4ea2acd165a37ab5f041a0b4da23cc414ed4580c33ef1c0cb5497e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0010.jpg",
+      "sha256": "35532f1c826f5af5239ee9436647384380096f9edc990256212896b56ec938c7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0004.jpg",
+      "sha256": "4d4b6a3bab390d45249b1a88e353737d591e08075abbd95ce5e322ce5cc2dcd0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0001.jpg",
+      "sha256": "aa79176f1dadd24976262861b7fa01200f675514403d87f02a5baa0b2ce31bb7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0003.jpg",
+      "sha256": "bb37a3d3a09d07822c0a0e303f09aba745fb7fdf33531d80442f05ab01eff700",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0002.jpg",
+      "sha256": "b19a3d207687976d4ed4254960258a7c54f78909697da347e68f8733f9908335",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0009.jpg",
+      "sha256": "4152e9c94c9283684fa93cbf963a5a9853e930c679b8690007518d466ff1c9b3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Salma_Hayek",
+      "filename": "Salma_Hayek_0008.jpg",
+      "sha256": "aad3eb86701a21f4e1cde5f0cbffc2f34a22c682967d4e55640ee2b9a58403cd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jim_Edmonds",
+      "filename": "Jim_Edmonds_0001.jpg",
+      "sha256": "5ce7deeebdd438fa2a890b74f3a8a1cda61c42a90c9f7963f5f769af7bd7cd47",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jim_Edmonds",
+      "filename": "Jim_Edmonds_0002.jpg",
+      "sha256": "597d4d05fd8899f598aa672f95278da7b9d2fa4ec8956b524a7b0c17aa20d3ab",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martina_McBride",
+      "filename": "Martina_McBride_0003.jpg",
+      "sha256": "589a3f4e11cb48c8715849e863f6a7c5cf1d0537bc27251148ef8774604cdea2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martina_McBride",
+      "filename": "Martina_McBride_0002.jpg",
+      "sha256": "c298d690aadf2a4fc95da2c56e69ec014eedd4d710196a7ba368dec016bd8d19",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martina_McBride",
+      "filename": "Martina_McBride_0001.jpg",
+      "sha256": "3ca0a1ff88f922371e6f5b345372ab876c8574fa7c4c56c210d667ceaaed9e82",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martina_McBride",
+      "filename": "Martina_McBride_0005.jpg",
+      "sha256": "47507e2bde85a9be574cb09a69df2b2cb7be3248a78a9bdaadb58df60078b792",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martina_McBride",
+      "filename": "Martina_McBride_0004.jpg",
+      "sha256": "602c5bfe96dfd0b7fda72f16f39c17fd8602f833fdda7ce7d25e284ea6165077",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Anthony_Pico",
+      "filename": "Anthony_Pico_0001.jpg",
+      "sha256": "c48b90d86f351523892c2a3812c3215ecd83589ef7008b68aff3bb318f567166",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jose_Theodore",
+      "filename": "Jose_Theodore_0002.jpg",
+      "sha256": "5097546e28cfd76df2aaaecc3d5a31087b26cd4f8598e0b47fb87ab729bfbc39",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jose_Theodore",
+      "filename": "Jose_Theodore_0001.jpg",
+      "sha256": "6ee994dc973a49e3116c501475f3f376e702dda24b4c59a9ddc833a76404acdc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Heidi_Fleiss",
+      "filename": "Heidi_Fleiss_0002.jpg",
+      "sha256": "b4efc7914851c054301491f349be7ce35267f1b6dc01ddb014dbe61490c1eabd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Heidi_Fleiss",
+      "filename": "Heidi_Fleiss_0003.jpg",
+      "sha256": "f904b44924aef240037175d80049651a3f627faf27e483da91f69bb536e60c5f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Heidi_Fleiss",
+      "filename": "Heidi_Fleiss_0001.jpg",
+      "sha256": "030196c318a65f7f8b38afc037f94f6674c2a347ddfc725ad0b524022048bd49",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Heidi_Fleiss",
+      "filename": "Heidi_Fleiss_0004.jpg",
+      "sha256": "f4d19ecb0252747135c9f57f638668b307a3527010c4fe57a44d923b919276d8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Richt",
+      "filename": "Mark_Richt_0001.jpg",
+      "sha256": "650de94fa18c8e1086f5bdb825d10c0236ea4ba3572cc84a2079d124045c4a27",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Richt",
+      "filename": "Mark_Richt_0003.jpg",
+      "sha256": "81f7aca9e5c6f9bb0b88712633b15afb3e8ecba4d9ed53e5e1285c7958c90b4c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Richt",
+      "filename": "Mark_Richt_0002.jpg",
+      "sha256": "57384054bd1603d19b64199bea77596182529b796962838496eed8534da8ed99",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mike_Smith",
+      "filename": "Mike_Smith_0001.jpg",
+      "sha256": "3a7efd4ce25eccfb35c83cce44f1a7e65565e2cdc9e9d90af9642f0eb54d4704",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0008.jpg",
+      "sha256": "53dbd797943fcc65b24917d6ec8713fb9e75adf88a29beb07232a7bf374d8005",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0009.jpg",
+      "sha256": "a7b104af6654a80acdab69730833927384b3a6eacbb1865674b2b36a270706b3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0002.jpg",
+      "sha256": "b716bc1ce68797a06e3c6b1a053a3151b86be351c909f65a9d47565f3c7d0ddb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0003.jpg",
+      "sha256": "882065397d240873059f64172b056ee18c724dc25494857315a075229aa153cb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0001.jpg",
+      "sha256": "742bfe93c158555e65d9173b029d0712329e688fd9629218cab9670ee5131ef5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0004.jpg",
+      "sha256": "fd756a56162e4fa66416b97a6148c59a678e3577c94dc47e37b7a1384c2ee477",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0005.jpg",
+      "sha256": "ad82e565488bf38945cf8a62eff4cd630d5f2be6f5722cbdb2684773bec0e3be",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0007.jpg",
+      "sha256": "de1d67ea7bb4fd4043ed807701728b4610c5675278b383cf79cff1e2dd1a8be8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_ONeill",
+      "filename": "Paul_ONeill_0006.jpg",
+      "sha256": "02b43d4069b5c10e27f6d9606157b4c04649856b0f6940dba1062920ca3237e3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Horace_Newcomb",
+      "filename": "Horace_Newcomb_0001.jpg",
+      "sha256": "39f522a1c895e5f1bf6b2032962e9ea45a4f3f627021e477e9759d08231d30bd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mohammad_Fares",
+      "filename": "Mohammad_Fares_0001.jpg",
+      "sha256": "c86e7ffcdcf06502527e9413ef6083571561fe5ddb76531c4ecd7eb0390cacad",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0004.jpg",
+      "sha256": "7e7e6a41db2d0b4c2471ec293621cb54e7d3d11bd10b631084a1b7f65c592095",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0005.jpg",
+      "sha256": "11641c53721a5aa2cf6d1af4280e21198f41daff8d772b1b2ef51650e5085295",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0006.jpg",
+      "sha256": "b288c21de641af1ed7f508000dd67a1852a5f8752abab2d9a1096898bbe7bded",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0002.jpg",
+      "sha256": "ef3bc8edac8b56f64e21656eed20f364571fa74e28c12fcc853cd8de8090df6b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0003.jpg",
+      "sha256": "e9296d24521fe1f1425cec74d84102126ce7d5ca71c135233ec199237262a537",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "JK_Rowling",
+      "filename": "JK_Rowling_0001.jpg",
+      "sha256": "b26196785f461d63e41336efe837554f226ec478cc4ab80098c229f0fbd98aa1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Shinya_Taniguchi",
+      "filename": "Shinya_Taniguchi_0001.jpg",
+      "sha256": "19eace19f1125cc3f86f6a6359c4cb13fcd7b94a0e950213ba7770667f97b729",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tony_Curtis",
+      "filename": "Tony_Curtis_0002.jpg",
+      "sha256": "0a9ecbd2ce5c82a3bdd31b9990aebcb057e094da85625f13102aeaa1f3aa6ac0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tony_Curtis",
+      "filename": "Tony_Curtis_0001.jpg",
+      "sha256": "517e04b9b8d51cf4c3cad12cf3b6c8731d3a95d5ff3e29a9f459a12ce35a34ba",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Laurie_Pirtle",
+      "filename": "Laurie_Pirtle_0001.jpg",
+      "sha256": "9d4cac5efb233ccad54979792a701e5adab67b802ca7b64f7df14320bab1ee29",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Angel_Maza",
+      "filename": "Angel_Maza_0001.jpg",
+      "sha256": "8d336a22b39902be111770f810ea072c4de8a915b085402059b86e65ede5f2f1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ray_Sherman",
+      "filename": "Ray_Sherman_0001.jpg",
+      "sha256": "1619871e932193fe8540986187aa7873e4d1a1ec041b0a7f8b03b4807d1dadf6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nancy_Powell",
+      "filename": "Nancy_Powell_0001.jpg",
+      "sha256": "6e4a89f20f8de8cf66c45c1101d047126707d739470ab957231b3ade0a4890b8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Kathryn_Tucker",
+      "filename": "Kathryn_Tucker_0001.jpg",
+      "sha256": "088375a812c8f1ce71cdfcfb6440210410561343d5813bbd997a9d8ca5a65532",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gro_Harlem_Brundtland",
+      "filename": "Gro_Harlem_Brundtland_0002.jpg",
+      "sha256": "78d47f3f81d53db99deb5f321a3725d197e9b2641a50c793924bea6ee8de25ef",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gro_Harlem_Brundtland",
+      "filename": "Gro_Harlem_Brundtland_0001.jpg",
+      "sha256": "395cb3b69e6f6a41fceb12d5cc1302b7245997c0a4905f53b8c59fb9d4b80c91",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacqueline_Marris",
+      "filename": "Jacqueline_Marris_0001.jpg",
+      "sha256": "a38790cf4fdeef07a76cf064fc3ba535747f1371f08ae4ec63a58be913bc03f5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mikhail_Gorbachev",
+      "filename": "Mikhail_Gorbachev_0002.jpg",
+      "sha256": "1d40f956ac9c9da65ce73e7053bb096cf7656988de48c41450eeae33612bf766",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mikhail_Gorbachev",
+      "filename": "Mikhail_Gorbachev_0001.jpg",
+      "sha256": "c0af0fc33465bf2fc36078bc32da22c1bc53ea2b4d4d36ff9b7f578b1acf4acc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Takuma_Sato",
+      "filename": "Takuma_Sato_0001.jpg",
+      "sha256": "0f392353aa9b21c83f36f0fbb94754f45dee76c6407c701c42397de052c33ab1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ray_Lewis",
+      "filename": "Ray_Lewis_0001.jpg",
+      "sha256": "d6c2bbb60b166cd8d67915904b79ed2bfbd7ddaf7c0b26bd35435bb5a32d25a9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hank_Aaron",
+      "filename": "Hank_Aaron_0001.jpg",
+      "sha256": "da56375321c26edb4a1323e2ea7bdcec3ce05bc53d82f4e92984b7518853e99f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Chip_Knight",
+      "filename": "Chip_Knight_0001.jpg",
+      "sha256": "f241cbebffee6f8da76e29bf77cc7ce15d6f53827dff3c3908132f03bed5e9fd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tracee_Treadwell",
+      "filename": "Tracee_Treadwell_0001.jpg",
+      "sha256": "70ada507eed54f0b3d8f25b66b55c754a1edaa2b1760c66a9ebb6feb92d20276",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ronald_Young_Jr",
+      "filename": "Ronald_Young_Jr_0001.jpg",
+      "sha256": "f01837fde923fc9dcc612cd482cf1b67ce83e23c147adc1bdea692713b237199",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gustavo_Cisneros",
+      "filename": "Gustavo_Cisneros_0001.jpg",
+      "sha256": "afa380b9d1733095d34ebf462596ad228133dd56565564b253d09b2681a78175",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jack_Osbourne",
+      "filename": "Jack_Osbourne_0001.jpg",
+      "sha256": "2e785a5187825a579eabbc77e2ea41ee6c1af6d12b798c32e8916e09014c20ff",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Isidro_Pastor",
+      "filename": "Isidro_Pastor_0001.jpg",
+      "sha256": "7b58e8a6a8367d675e3942d15b4da5f96a9689adc9ea51a1f01f377e0a15e51d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mike_Duke",
+      "filename": "Mike_Duke_0001.jpg",
+      "sha256": "bd4cb4bcd6655d07e9c16bd2e581452ceeb8eac7fba4cd0dac02d0182200a9fb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Natalie_Williams",
+      "filename": "Natalie_Williams_0001.jpg",
+      "sha256": "86911cae3bd9a7f86ec1df8ad525c6083f3d028686c102eff648f8da8fca1219",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Angela_Lansbury",
+      "filename": "Angela_Lansbury_0002.jpg",
+      "sha256": "3404116d3d34d1b4ffb305133f44bfeae0d31d6cd9cd2c3b55e3e2b6d2490f3e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Angela_Lansbury",
+      "filename": "Angela_Lansbury_0001.jpg",
+      "sha256": "aeefd33a8ffbc1b2f6785c7e3b5d18f289ef3921215deb53cb359f3f7d0dd330",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Cathy_Freeman",
+      "filename": "Cathy_Freeman_0002.jpg",
+      "sha256": "54117c07e910146911f7ead5818fe3824f74a8de68238cf9c8e5dfce04753510",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Cathy_Freeman",
+      "filename": "Cathy_Freeman_0001.jpg",
+      "sha256": "a57eaa517243805555eebe846545fec7796e62a17990bfb62adfaec843634d4f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Milt_Palacio",
+      "filename": "Milt_Palacio_0001.jpg",
+      "sha256": "ef9e9e7dca480360a2adaa967cea454b113ef9457f88916d0355bb4cb35ec3b2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Wilbert_Elki_Meza_Majino",
+      "filename": "Wilbert_Elki_Meza_Majino_0001.jpg",
+      "sha256": "9aa9970bcde2abed52f4b781c450f26fe9fe78cad89a0f6f918fc1e56e5aa0c7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ekke_Hard_Forberg",
+      "filename": "Ekke_Hard_Forberg_0001.jpg",
+      "sha256": "ec5408cd4e29c3d4a0ecaa7a22b1e6fd0432d8bcff57158feaa8c2c2e7a6d593",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jack_Welch",
+      "filename": "Jack_Welch_0001.jpg",
+      "sha256": "8cc5196c265ad9cf03d27e0403c9218ce2d8cf902ae61caaeed2f5275d6e1a3f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nizar_Trabelsi",
+      "filename": "Nizar_Trabelsi_0001.jpg",
+      "sha256": "e215f029df73421e85efec45a2143186f7e68864b736d5bf2ab0b6b7db57b19e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gonzalo_Barrientos",
+      "filename": "Gonzalo_Barrientos_0001.jpg",
+      "sha256": "581de32b029742aab5295581484b67b60806a2168fad7608d12a70f42f41bac6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jason_Biggs",
+      "filename": "Jason_Biggs_0001.jpg",
+      "sha256": "df23ee18ff1c614e44384e90fceb8c39ea23b554109f3a4e18b8f83840041fdc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lisa_Leslie",
+      "filename": "Lisa_Leslie_0001.jpg",
+      "sha256": "aef74611c0b17bc3326f4203becbbb24bbab4d828b21ae31b48f99bd00bf47a4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tayyeb_Abdel_Rahim",
+      "filename": "Tayyeb_Abdel_Rahim_0001.jpg",
+      "sha256": "c5a10492d1606ac9a0b54473de949cb196fa86917e4230f18af92ce34a9b6f3a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tyron_Garner",
+      "filename": "Tyron_Garner_0001.jpg",
+      "sha256": "269c00cfd861d72b6b211d9d1cba1dbf6748b7860bc1e7dc5f0b99ff23aafe9e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tyron_Garner",
+      "filename": "Tyron_Garner_0002.jpg",
+      "sha256": "812ce8dd844bdca8875bcc255053cef2ad76983fd85b2fcdbfaf66193428fda7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Sidgmore",
+      "filename": "John_Sidgmore_0001.jpg",
+      "sha256": "8cda390cce026f86a869befae6e8a248a80dc82ccc40490a684d7f04bd4ee0fb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alexander_Payne",
+      "filename": "Alexander_Payne_0001.jpg",
+      "sha256": "0917d9b267fc78360de8d41ef248ac10b6d8ebd039d9fac1a82f8598bf5fa52c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brad_Brownell",
+      "filename": "Brad_Brownell_0001.jpg",
+      "sha256": "f14b12acbe1abd82c0c46d92fecca119b560d82650ea80673342117da091e474",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Duprey",
+      "filename": "John_Duprey_0001.jpg",
+      "sha256": "d21d58f2a8361490d8d6901434a558f2612cc3c07acdb50dc1852cff5dbeaefa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ainsworth_Dyer",
+      "filename": "Ainsworth_Dyer_0001.jpg",
+      "sha256": "409652301fe1e403c33fc8fa658c6e1539ba1060f39840a7835c6bfddf4a074a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Christine_Ebersole",
+      "filename": "Christine_Ebersole_0002.jpg",
+      "sha256": "8d71982fc150b59bf60e488c84b2bfe5e626f4d8056f322fd1813c8f187f5dfe",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Christine_Ebersole",
+      "filename": "Christine_Ebersole_0001.jpg",
+      "sha256": "41d256f3a958ee26909284e696ecdfd5bf3d9df40a284d23f412938d293795b1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Amer_al-Saadi",
+      "filename": "Amer_al-Saadi_0004.jpg",
+      "sha256": "48d55f8db59760156ede2289dd1d39d8dbae095d9096e81ee6473df662f0ad38",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Amer_al-Saadi",
+      "filename": "Amer_al-Saadi_0001.jpg",
+      "sha256": "9b613a33d0c8792dd5758608d664f50803931b17cad40ef4d67498468d1b9fc7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Amer_al-Saadi",
+      "filename": "Amer_al-Saadi_0002.jpg",
+      "sha256": "e8924cf57b3db37076941b3c0412b375c1812d52e98769ca95f373dde175c0ff",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Amer_al-Saadi",
+      "filename": "Amer_al-Saadi_0003.jpg",
+      "sha256": "1c9073b9337c87189cdb1b0defc49e3694d00bd6aad5e4a138f6c364bbe879c6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alison_Lohman",
+      "filename": "Alison_Lohman_0001.jpg",
+      "sha256": "35cbafedebe0da2953b989a3095fc2fd13fdcb6a96232e54b1326194724ae96d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alison_Lohman",
+      "filename": "Alison_Lohman_0002.jpg",
+      "sha256": "92d12bcac8a9cbafc0ad95ec58e721f8c49d0da62fecf48ccb0fb4ae7c26f40d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Duane_Lee_Chapman",
+      "filename": "Duane_Lee_Chapman_0001.jpg",
+      "sha256": "ca1218605114efa93471dfcc54ae378b1f84986b085294ed1f8a894118af9df8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Duane_Lee_Chapman",
+      "filename": "Duane_Lee_Chapman_0002.jpg",
+      "sha256": "7d147cfeade34b4975ce9772af80e38348a108a22cf300a4f355b8616ed462c8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andre_Smith",
+      "filename": "Andre_Smith_0001.jpg",
+      "sha256": "904c93b722a2f4707f542ade6b04cf315c854a5d1853ffc94616598f9405007b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Iban_Mayo",
+      "filename": "Iban_Mayo_0002.jpg",
+      "sha256": "a55880ed1a3e16e677bc4642fedf7a9dc34c7e285c85fe1c73b8c495580e5544",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Iban_Mayo",
+      "filename": "Iban_Mayo_0001.jpg",
+      "sha256": "5a8e06f14e500a4dda452f108705c392468f3a24d41f0b0a30f4fab156b1e569",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0009.jpg",
+      "sha256": "ed86b8d0e01793a97f94d61e1465a5926776f73fed2cd017bceb1e516f7d4ca8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0008.jpg",
+      "sha256": "dc73ccaea4951a6bebaf785e6ee2875008dfbe1b9b642a27f961e8d04c17cc63",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0001.jpg",
+      "sha256": "2e0da6f239c2bec8c8b00ff064a43be9c818dcd4fe35f71107f5db6bdac764e3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0003.jpg",
+      "sha256": "72a6fdc971ae93c8717ff5cb52bf149a77952e83a6fefb57b0670720095e0a85",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0002.jpg",
+      "sha256": "c7985be0c0505902621a5613ec89047c7dbb64253965aa810b87046045dd8e4c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0006.jpg",
+      "sha256": "c46d029ea9ed56e995b59c4efb433070c0696864e0311bf8583f48ec75e38e35",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0007.jpg",
+      "sha256": "ef690ea0509b6d5f906325c8d921edfd313c7bac27598ed0e79c59d35fbcc336",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0005.jpg",
+      "sha256": "505eea0f3236c2eba1479787474ba3de6527294f414a8a8c07cd074871932612",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeong_Se-hyun",
+      "filename": "Jeong_Se-hyun_0004.jpg",
+      "sha256": "45c661aae7a95d58445c3bfd36abe8ce2fca69606a3f964b2326e75560c5cbb1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Charles_Rogers",
+      "filename": "Charles_Rogers_0001.jpg",
+      "sha256": "a0a430532b5da76953b9f86b7812ca47c8d5bd79a347242d93f23cc3dff09fae",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Eric_Rosser",
+      "filename": "Eric_Rosser_0001.jpg",
+      "sha256": "3250ac6feee3832893f504ac524d50608c26563ea4a2a1f4056ebd48be347ae2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Eric_Rosser",
+      "filename": "Eric_Rosser_0002.jpg",
+      "sha256": "96b2a882957dbc374f727f68aaebb24e6fa21a3a5a25ee751374d2a8a1eb757f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ziwang_Xu",
+      "filename": "Ziwang_Xu_0001.jpg",
+      "sha256": "da8e305ec5ac390c7dc78c79688d0a9e3fbec55cd0de3f0e86c034f1c12287a7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Larry_Pleau",
+      "filename": "Larry_Pleau_0001.jpg",
+      "sha256": "dc3356b1f1420a862a11d5521c7e2ddc92a7c528f57b1cefb08577a503e1c872",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bill_Byrne",
+      "filename": "Bill_Byrne_0001.jpg",
+      "sha256": "72c51ca0dbabc80c4e2b9ce4a97ec47ec3fa17ed1a9c1e7c4dbf309f8e8f5b5d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Gabriel",
+      "filename": "Peter_Gabriel_0001.jpg",
+      "sha256": "cb74795f31510db4b215ff80b9d21d0a5d83e3f4ada38750c1c3a2adc4c05f95",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_LeClerc",
+      "filename": "Paul_LeClerc_0001.jpg",
+      "sha256": "87a030199610ba54b30be54eba99c9c9fc071f2c776b84702d9c64c752874845",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Maria_Bello",
+      "filename": "Maria_Bello_0001.jpg",
+      "sha256": "52a2bacd75f9c7df42ba652cf445c72ade310054f16447d3ade1dc851246cac0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Shawn_Kemp",
+      "filename": "Shawn_Kemp_0001.jpg",
+      "sha256": "581aaf1ecd91f7648ce7f6fbfbbae8863f09271fca14c0667a5ce324051053c8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0001.jpg",
+      "sha256": "9ca5b21eeb67979092d06d67acdc7a937c000e8a325bcd101f182bf45cbe434d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0002.jpg",
+      "sha256": "8f814112d78869274c994e4e8eb575e70b5d017c19f80871754dc0e5522f6d6d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0003.jpg",
+      "sha256": "9437a348e40204ae2b78a31efe8c2c2a8414653ed0b8f8b3a83b825704c50bb0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0007.jpg",
+      "sha256": "260b61614bc8d3fe1bb1f085ba7ccad19df4bdd4c5c422f18cfe920e60928807",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0006.jpg",
+      "sha256": "85aac7a57355ffef490099775fe1e84f79153ab7c5c17f3dfd2159c37a64f64b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0004.jpg",
+      "sha256": "c41e1cce71f120c4dcd17ecf15d9148c64a2fbae22a053e301e1866a2662fe5e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liza_Minnelli",
+      "filename": "Liza_Minnelli_0005.jpg",
+      "sha256": "1bbb10c7495d54e56a3dea55db97c329fcc403bc0502e63b510f83dcbcdfeaeb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Toby_Keith",
+      "filename": "Toby_Keith_0001.jpg",
+      "sha256": "d0c021a0caad9dedc0adb5bcd16ba575eaeaf528053601294ce69dcad0b5307c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Horace_Donovan_Reid",
+      "filename": "Horace_Donovan_Reid_0001.jpg",
+      "sha256": "8f87f45011d914cf8e91541d8b9fcf31ec2455620d81e26231ecfc4e785c0302",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0001.jpg",
+      "sha256": "f994e5b22ece8d201a80134d5b8560edef5d13fe82d19eab91b5faa5ececc376",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0003.jpg",
+      "sha256": "330ceb69235928faf396cad30e825ccf76a24363c13e3269d1daaa1bbabed6ab",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0002.jpg",
+      "sha256": "ef3ed525c5bedbb0c677bd98b7c9fd416fd56646ec82bce1ea9704b1756c07dd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0006.jpg",
+      "sha256": "947e4ecf59638d262e3634bce7cd0e9d8c638978a5e0b5cbafbd0d2dcef776a0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0007.jpg",
+      "sha256": "463fe4ed8882987e1aee990f2dcd53c2276a3a46e4c26a1444049f5c0cdeeb3c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0005.jpg",
+      "sha256": "b83019fd1c9c868337a7914fd5c97dd88ac84040ac3485141d4bbbb682cb75e4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Wells",
+      "filename": "David_Wells_0004.jpg",
+      "sha256": "ad5fb7521f683ace07dc4225530885bd87fa3a5b1981d04e4e345fde9257080c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jose_Alencar",
+      "filename": "Jose_Alencar_0001.jpg",
+      "sha256": "dc17fc72a126dd7595b16cc2121af8056254273d829f20bfb66912408dacc7d8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Raul_Gonzalez",
+      "filename": "Raul_Gonzalez_0001.jpg",
+      "sha256": "b4fa45606803390251825e2059801ceaf85fbe19180a4001ccda85d7dfe9d22e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alex_Popov",
+      "filename": "Alex_Popov_0001.jpg",
+      "sha256": "77b6925cf9dcf27cef30e183587b1e400c828c2e6d45432c0cabcd41a4aa516a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Anne_Donovan",
+      "filename": "Anne_Donovan_0001.jpg",
+      "sha256": "d65bda1509fae4fa1999e23cff0f6d520dd5218704dc20d43dded15de75ec229",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Vin_Diesel",
+      "filename": "Vin_Diesel_0001.jpg",
+      "sha256": "83edac99ab155944f4c10c0e60fec4e0dd0ef0a1b818e9920ae65b3df8721b88",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Vin_Diesel",
+      "filename": "Vin_Diesel_0002.jpg",
+      "sha256": "7031364159fdea4d6336b99821964bdf5179d87896ad515007fbe746adf119cc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stuart_Whitman",
+      "filename": "Stuart_Whitman_0001.jpg",
+      "sha256": "5ef3f21998f6f5c6690fce22311ffefe8d36ccc36d016c074d4364ea69edb333",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0003.jpg",
+      "sha256": "5b4fc1b54e20c35416891958f892bc04bc4eb3cdc5443b7d407e0fabc87e3fb3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0002.jpg",
+      "sha256": "4f7cde0df5fa4d470755dace9c03aa2950cbb8554d98673fee233300510e7149",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0001.jpg",
+      "sha256": "57d133158080a441424b7fdde5e14801949ca16f8fd813204fb37d69e0e9d134",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0005.jpg",
+      "sha256": "ffcd9f2259eeaba5e6febd138b40d07e371f93426255bad08842f40c05de8e18",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0004.jpg",
+      "sha256": "a276bcc4af4d3895eedbd96dd2036c93809516bb8e298f8094f239c2baeb0f90",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0006.jpg",
+      "sha256": "cbfaa4da3f5861bcc00ee1fccedff0d48c8642e57211118f96a56b4388b2e55b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0007.jpg",
+      "sha256": "c9e8d13a2e87da0bfdeae136f2e40a4ce01fbdd948936605b822b55e4fc45a5c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0009.jpg",
+      "sha256": "5892aa062cca971605bfd39d83aed9bc134db403cf3a6d061d66b3c213292dbc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jesse_Jackson",
+      "filename": "Jesse_Jackson_0008.jpg",
+      "sha256": "bea1371fd6cc188a967c47c678cff389a7983cb1a50cb55ad77232744a118059",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Valorie_Brabazon",
+      "filename": "Valorie_Brabazon_0001.jpg",
+      "sha256": "8ca99bf1003f664c1fd5054601ebbef58a583f4d1cc9a5e3a6d8c42a9e2c1a37",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rob_Niedermayer",
+      "filename": "Rob_Niedermayer_0001.jpg",
+      "sha256": "e8ce3b72f0a0827c6c087c13e62aabf2700cbed705fecf0ce42a4d435e7f9574",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lynne_Cheney",
+      "filename": "Lynne_Cheney_0002.jpg",
+      "sha256": "e9f30ad258b10dc40b2bc7ecbfb8b3b1b20f1cd2aa33d62ecd9c1a74924ee5d2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lynne_Cheney",
+      "filename": "Lynne_Cheney_0003.jpg",
+      "sha256": "21d11efeb39bf0e8f55e3084095906312b2cc97d1ce51215714e71166230f756",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lynne_Cheney",
+      "filename": "Lynne_Cheney_0001.jpg",
+      "sha256": "27d777b51bc8bc9279cd9d6d91e363008278b97ed05f6e702f41483c1782fba3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Minnie_Mendoza",
+      "filename": "Minnie_Mendoza_0001.jpg",
+      "sha256": "5d4aa4b495cf8123fe766bacc59171ecaf09fccd5acc9fa595123bb9d7c9f1d4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Rosenbaum",
+      "filename": "Mark_Rosenbaum_0001.jpg",
+      "sha256": "a857c1215784c420b9a57b38e9d62fcb8538247a5600cfda14fcdb7fdb147d75",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stephane_Rousseau",
+      "filename": "Stephane_Rousseau_0001.jpg",
+      "sha256": "8596c8f11e577f9a6c1281417d515393fb94d59cb8166c53bb4e6c521805052e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rita_Wilson",
+      "filename": "Rita_Wilson_0004.jpg",
+      "sha256": "23c13a57f8fc6c16ce8defcaf16c2a39252893da19ce219792db7e737354a462",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rita_Wilson",
+      "filename": "Rita_Wilson_0001.jpg",
+      "sha256": "9bd1739b7924a19363a2e8a92ab74db9b80e7a4eae88c750d936be6a1c850ca8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rita_Wilson",
+      "filename": "Rita_Wilson_0002.jpg",
+      "sha256": "2d14813085d87ee97c4fe1a85e78a4b4ca6ac4ec933a0568341e69fa67e77299",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rita_Wilson",
+      "filename": "Rita_Wilson_0003.jpg",
+      "sha256": "46aa02dc7fbeff0dbf8c1a175295c9271bc2b6c90c3d6d10b907872a8b9c5279",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Terence_Newman",
+      "filename": "Terence_Newman_0001.jpg",
+      "sha256": "b081ee36617675c5f602792d0b88d2f53890f6ca0a2ea519fa3d3a1b48d66cc1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joseph_Biden",
+      "filename": "Joseph_Biden_0004.jpg",
+      "sha256": "a4764b7929b6291f71ee9c137d0c71c4f3f5bd76e4a522be5975da3acda2a8ad",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joseph_Biden",
+      "filename": "Joseph_Biden_0005.jpg",
+      "sha256": "5373141731603f4b719515adac5e0d6f8213bfee01070de4b3b93f2257d86f2b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joseph_Biden",
+      "filename": "Joseph_Biden_0002.jpg",
+      "sha256": "01e319e0f9b1fccaa16a7160e1c192cd424a5f72e17910172505f02e43db5f33",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joseph_Biden",
+      "filename": "Joseph_Biden_0003.jpg",
+      "sha256": "b30f88ce670c1271bea496b04c8f44cac1dfbd030617ca6fef9a6e8415ac7cca",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joseph_Biden",
+      "filename": "Joseph_Biden_0001.jpg",
+      "sha256": "aec2c56cb3ac13659f08e2ee0f86c24b34f46610db04f36430f575d2815c5380",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tommy_Tubberville",
+      "filename": "Tommy_Tubberville_0001.jpg",
+      "sha256": "1e633e6fcb6ab749ed53d15221a0021d739970c25390fa732633e1a36340c3b8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Meles_Zenawi",
+      "filename": "Meles_Zenawi_0001.jpg",
+      "sha256": "cf063714584b792c44a7c9a6b673505d2239c0ca9b8fe2e8b27a872248f6dd84",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Natasha_Henstridge",
+      "filename": "Natasha_Henstridge_0001.jpg",
+      "sha256": "dceb39af78015ecfa2d6e30d9a411ad487fa94ff2fd943583f4f291e70dc1e38",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Trevor_McDonald",
+      "filename": "Trevor_McDonald_0001.jpg",
+      "sha256": "207b1d43ff40533ddecf4b5b701d3d02d843f07d36fc16dbd343a23ddab35baf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Pat_Burns",
+      "filename": "Pat_Burns_0002.jpg",
+      "sha256": "e136c9e9eda879f50428ee7e6b1287247228efa300455e0987993f58c27b0e71",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Pat_Burns",
+      "filename": "Pat_Burns_0001.jpg",
+      "sha256": "bf3d3a3fb09ff6b6e414856deef22423f8729a3c921c3debc7a2a3226a06362d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Caroline_Link",
+      "filename": "Caroline_Link_0001.jpg",
+      "sha256": "9450199192cb1308509ee3af56bb1b238934042cf1ba8ff6635cc9707cb999c7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Clay_Campbell",
+      "filename": "Clay_Campbell_0001.jpg",
+      "sha256": "df95c2dbc4c1b7becea2467662927e70bdf77ddc44ab24bfbfc4ebade7bbddb3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0003.jpg",
+      "sha256": "95e2026f3ccacea1d9085da051e950ed2fcac7a4237565d8b6f077d31f0eb8a8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0002.jpg",
+      "sha256": "20dce3e38fbf77b130c8c78ed8e3b6bf73da0a7b508925aa3e7eb12307255975",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0001.jpg",
+      "sha256": "00d705ab2b98ed717e93f52c698ed6e8bac58dc09171f28953a1e40a3d8f844a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0005.jpg",
+      "sha256": "954e7a77b0f2689ca17a0ea7354164713bd8f393c32c868a37e5b2d0b2b8d69c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0004.jpg",
+      "sha256": "ebefc0201612c2c0fd709e45955dc1fd756767f2d56f8a7a394f1a4c75cd0219",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0006.jpg",
+      "sha256": "16019b07cd77761a4d41e50a18a8abc3bb513350446d191c4472bb8dfaeba223",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Holly_Hunter",
+      "filename": "Holly_Hunter_0007.jpg",
+      "sha256": "fab36cb3efb7dd3b8ee5a217044212ed037c2fa924bf3d02dd682a1b62a5f99c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0006.jpg",
+      "sha256": "eca19429653da59b9eded49971d00b6c90c48d93603cae2c2ec98060c61589ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0007.jpg",
+      "sha256": "27202ac23994df42af2a78443cf189bb8d75b069f9f8536a542f246811c23653",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0005.jpg",
+      "sha256": "51324f1291b4582e5a45f3296f2bb3e9458ef51fc8eb86109493434553c48a39",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0004.jpg",
+      "sha256": "fff1c85b02a692411fd3c690ad83f169f7dbcf96a77b0fb9bcfc0205b785b52c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0001.jpg",
+      "sha256": "0d212e61b44465b52987f1f893f1992d41fc560c6250a2fc08aca2ae09eea910",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0003.jpg",
+      "sha256": "fcae8496d66aada48f7e0f10871ff934f0b834a20bc38f6a12d9eab66f2f92c2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sophia_Loren",
+      "filename": "Sophia_Loren_0002.jpg",
+      "sha256": "ec284adf6275effbe46c76a063c20cd2d31a941409abaa8ac963f82ee5b2a441",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nicolas_Massu",
+      "filename": "Nicolas_Massu_0001.jpg",
+      "sha256": "633ebf7fdbeb14446aa61fc05ad3667f64f60cf13dc38284309eaee9badc0b46",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Kaisser_Bazan",
+      "filename": "Kaisser_Bazan_0001.jpg",
+      "sha256": "b64683b60991e5ed71831fb60fbcbebffda3b2f2c8d0642f349688b0dc2e3d33",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bryan_Murray",
+      "filename": "Bryan_Murray_0001.jpg",
+      "sha256": "1346a824d884afceb4483384dd1d2e392b4a41bd5c4b1899316b93915994a09b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Francois_Ozon",
+      "filename": "Francois_Ozon_0001.jpg",
+      "sha256": "f305eae0073b8509e71747e3705565edc9040d37c88afd61d5033579c4a20136",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mathias_Reichhold",
+      "filename": "Mathias_Reichhold_0001.jpg",
+      "sha256": "e8cf1c25289bf3e5154fbca77116f59d5c48d2f806fc14c2c62ac8d494b3baaa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mathias_Reichhold",
+      "filename": "Mathias_Reichhold_0002.jpg",
+      "sha256": "2cbe0ac53e0c8e034dfeb52c9b9d037eda10824ad4f9997f4f5f04f9c23a01e0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mathias_Reichhold",
+      "filename": "Mathias_Reichhold_0003.jpg",
+      "sha256": "21efd01a44dfa4cb487d3761831d48c51e81afb44743e7c8a9c320d28e71115d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Whoopi_Goldberg",
+      "filename": "Whoopi_Goldberg_0001.jpg",
+      "sha256": "8080ec9f3123ecdcb29680f98f233405db12f81478247cbeb3eb7e5003cea6e1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bill_Cartwright",
+      "filename": "Bill_Cartwright_0001.jpg",
+      "sha256": "3b66c6825f04c5b7c92c635da38842800f78f99ad46e6604ec1878971251eaed",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Victor_Garber",
+      "filename": "Victor_Garber_0001.jpg",
+      "sha256": "5a568a934b13acf9307e81a6b3434643023ca371ad57a620d871c765dd288fe3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeane_Kirkpatrick",
+      "filename": "Jeane_Kirkpatrick_0001.jpg",
+      "sha256": "db548b8f5ac464786032cd4ce9f3f2314befb6fb0a92a3f36bb995a74a41dcaa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sue_Grafton",
+      "filename": "Sue_Grafton_0001.jpg",
+      "sha256": "b25119f38fc2a4942864ed82b2a4ab05ba530bad7794de6466e522afc9c50b4f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Manuel_Jesus",
+      "filename": "Manuel_Jesus_0001.jpg",
+      "sha256": "8c49a67ff9d1b00df7427dbcf3f3e0703a7f234c057d3157a02a7ec05a2684b6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Giovanny_Cordoba",
+      "filename": "Giovanny_Cordoba_0001.jpg",
+      "sha256": "e3c2c88bf1eae8676f4e50b379705b4d182a8fc22bfe047e6abd163e7b68374c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "James_Sensenbrenner",
+      "filename": "James_Sensenbrenner_0001.jpg",
+      "sha256": "b1b2af2c9da293abdc8c500e3b44571d9839325718d8f75ed8a1096b49cbd235",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennie_Finch",
+      "filename": "Jennie_Finch_0001.jpg",
+      "sha256": "e99460af81fc19d11b35b81fa6dd6926797084bf0b1a0c2723f68429e884fc21",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Westerfield",
+      "filename": "David_Westerfield_0001.jpg",
+      "sha256": "2e560f52ef12cf0c4f1095ca265bce93a4d7e12a84c8b0659cf07c59f9ec39f6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0004.jpg",
+      "sha256": "012a6cd56a982e5461c9340a4e534cf6ae2d908345d16319bccfc4a788c8f521",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0005.jpg",
+      "sha256": "d657562633614ccb7fb8c190c4c890b492ba1c19fd98e2d4a1b19528abb8bcc4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0006.jpg",
+      "sha256": "087097d19c6aeb4fc6cd913a2c1c84d5369cb5c7fcac311079c52616484ebf61",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0002.jpg",
+      "sha256": "831be7c1d731956cd58189427cd5f15c78689ca1ab5555920ff236231f2149e0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0003.jpg",
+      "sha256": "ef5a56c7a5b21297f2be1c8866b247cfa6ee8bae8436d72fda637eeca5ef9f16",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Costas_Simitis",
+      "filename": "Costas_Simitis_0001.jpg",
+      "sha256": "ba957f70379d2e5846b62f93996192529e63acd312d5432ebeedc7c5e517e297",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Carlos_Iturgaitz",
+      "filename": "Carlos_Iturgaitz_0001.jpg",
+      "sha256": "ef4dbcfd7a3abf5283e4caa0bed8d3a7bd04e0b2fe4e7668cb56948b72ac15a4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Shapiro",
+      "filename": "Mark_Shapiro_0001.jpg",
+      "sha256": "28acec273d6b6895dad2169f930dd2326d81566035a18518e3e2a4bba25682ae",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "George_Lopez",
+      "filename": "George_Lopez_0002.jpg",
+      "sha256": "e48e449b21744218834ba5f38262ae12819258fb6b359ace5b3152a0eaf76c90",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "George_Lopez",
+      "filename": "George_Lopez_0003.jpg",
+      "sha256": "06aa5eefefcbaa3172531517f4fe29e22eccf3c112d22b85247cb5b0da423680",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "George_Lopez",
+      "filename": "George_Lopez_0001.jpg",
+      "sha256": "2b7191aa30a59b21f102d3d1ed64cfc7d2bb6d5236480d31de779a5b67c03921",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "George_Lopez",
+      "filename": "George_Lopez_0004.jpg",
+      "sha256": "529a233634d74df3d5c05250dc2ec5c58488ecf93d59b7de6b64222ea15ff3d8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "George_Lopez",
+      "filename": "George_Lopez_0005.jpg",
+      "sha256": "d08f6d5626e7739ed4ffffe0f70659f4d808df8440084e60e865d309aa6ebe88",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Taylor_Twellman",
+      "filename": "Taylor_Twellman_0001.jpg",
+      "sha256": "7de7ecd928120edbf82edc505d2991f95e6b4f03d761ab054c8ba5f35798c149",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Hartz",
+      "filename": "Peter_Hartz_0001.jpg",
+      "sha256": "e7a095cddcff95c39b8dd673bc1a533908b22af42860455e94b4eeb4bc72e87b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gianna_Angelopoulos-Daskalaki",
+      "filename": "Gianna_Angelopoulos-Daskalaki_0003.jpg",
+      "sha256": "b2b1a57cf94641083360636a1c250ce90bb7367ba71ef792cfa6f086d1ee9112",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gianna_Angelopoulos-Daskalaki",
+      "filename": "Gianna_Angelopoulos-Daskalaki_0002.jpg",
+      "sha256": "9e5672fb97768441bf76cac86d7f5d4b68da079cdd174bd60265fdc89f9e3b9f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gianna_Angelopoulos-Daskalaki",
+      "filename": "Gianna_Angelopoulos-Daskalaki_0001.jpg",
+      "sha256": "f9a2a844f0f27af52a103dd729eb2b59b2aace506a063d5af0848fffcaf1ae90",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Beth_Jones",
+      "filename": "Beth_Jones_0002.jpg",
+      "sha256": "91f9ac3815e7bac50239f8e0b54c593bf2cfe6ebf0a87dba81d6c65496c9da26",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Beth_Jones",
+      "filename": "Beth_Jones_0001.jpg",
+      "sha256": "27e3c31d9dc00bea2299de0d9c6cb4c44d7cd44a5f6a270af8e76b515beba224",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brock_Berlin",
+      "filename": "Brock_Berlin_0001.jpg",
+      "sha256": "bf77ccd36b8d50751c36db9b83e4b71f560e38239a5a84f3cca7c78fbef332e6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "James_McPherson",
+      "filename": "James_McPherson_0001.jpg",
+      "sha256": "dc2208640b7fc1d4586bbf7d2e0a42fd807b705e5602339a4d9f2617a69ec656",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0003.jpg",
+      "sha256": "de25950fd91e0b4f9e2d272a2092a1730aa2d398c288eb6634349d7b56f28e64",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0002.jpg",
+      "sha256": "32c9c0d704128b762c18601ff978f6376b78a4d48a0030d36353f721335a6a7f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0001.jpg",
+      "sha256": "9004c7988c3de645892babbdfa96ab48754d692722cb4e5616fb0faba5c97f15",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0005.jpg",
+      "sha256": "86c79493e110acddfecba612879ac0185e61b33e9f3501314c9f97b32b83e80b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0004.jpg",
+      "sha256": "2cfdf6940387ea10213a7d59d7b0c8950f1d7c698049430727f7fdbb280ffcdb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0006.jpg",
+      "sha256": "c7ef2924b02a1e29634a99601bcfff0234cdd8461bea2133d9732d55dd97d140",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geoff_Hoon",
+      "filename": "Geoff_Hoon_0007.jpg",
+      "sha256": "118d84e6bcc62eb7f7635da1102aca2f54c62848878253ecc514d4519c5b4ac4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elizabeth_Hurley",
+      "filename": "Elizabeth_Hurley_0001.jpg",
+      "sha256": "9a6a9522a4351ff48a16f9a3743c9a2d89c959e38235d407d29333264f5d41b9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elizabeth_Hurley",
+      "filename": "Elizabeth_Hurley_0002.jpg",
+      "sha256": "1db1a4c906331bccd4493cb89f98e59d0b219f5ec68ada590d01474885db097f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elizabeth_Hurley",
+      "filename": "Elizabeth_Hurley_0003.jpg",
+      "sha256": "033a184d0674735c6006d5806fc6f5dd1191bbc8d025b1d87babb3d52e4297a8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elizabeth_Hurley",
+      "filename": "Elizabeth_Hurley_0004.jpg",
+      "sha256": "f584fbef593f4823910623853d14bb1b51d705f5204b698b8d13fd0e5fdc3e8d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elizabeth_Hurley",
+      "filename": "Elizabeth_Hurley_0005.jpg",
+      "sha256": "904137f71cf7b8d3d4f9a5268e82caa2fc573a3b1ed10787de6c84624a08a268",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hipolito_Mejia",
+      "filename": "Hipolito_Mejia_0004.jpg",
+      "sha256": "684571c09c7a03e2bbee08e77697545895e09d9bc4fe3d78d7b9a25de8191353",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hipolito_Mejia",
+      "filename": "Hipolito_Mejia_0003.jpg",
+      "sha256": "fb440bb641b4337c8f1f9761627ad092c1d9a12fa82418c02e9a852e0363faa9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hipolito_Mejia",
+      "filename": "Hipolito_Mejia_0002.jpg",
+      "sha256": "8bf0f4ae9e1c843881b3ec9588ce462a69aa6062d38bc5fb3cc4f73421f91e4e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hipolito_Mejia",
+      "filename": "Hipolito_Mejia_0001.jpg",
+      "sha256": "66ea7b73c4438e263460595c7bd31f54ddd49c265356725b360e327c22c74602",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bart_Hendricks",
+      "filename": "Bart_Hendricks_0001.jpg",
+      "sha256": "3028ff8b5c01db3dcca7140c2bdf66a4a1cff09c04759928ec7c3ab0e29bc2d1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Brown",
+      "filename": "David_Brown_0001.jpg",
+      "sha256": "3f399a26a0cbacdc53f56ace5c4a686865c9d1472a9c472828318cb6e398208a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Craig_Burley",
+      "filename": "Craig_Burley_0001.jpg",
+      "sha256": "66669e214dda405285baeb8fac12d34a923ed332aad47697497c8659db1e7b22",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hermogenes_Ebdane_Jr",
+      "filename": "Hermogenes_Ebdane_Jr_0001.jpg",
+      "sha256": "ab3e44e31462f0837865b261d6f9dde7db2fa708fe899b1e76f152a609b72590",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Joey_Harrington",
+      "filename": "Joey_Harrington_0001.jpg",
+      "sha256": "68fb732b4c9962b5cb5546974c211f49d4684d2b77e8bba194cc803b356fa10b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Wolfgang_Schwarz",
+      "filename": "Wolfgang_Schwarz_0001.jpg",
+      "sha256": "8900ac7b29e9e63482bf3344a9f62e5a0bcb626f01aa14ad6b1a101035f6676a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Saoud_Al_Faisal",
+      "filename": "Saoud_Al_Faisal_0001.jpg",
+      "sha256": "70576769082e8960fe3228a4a14350f2a736cf503a89b02567e9a7a41cdbe32f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sebastian_Saja",
+      "filename": "Sebastian_Saja_0002.jpg",
+      "sha256": "cac3bfd6d5127e7b94dd98d03f5e78ed77f9b36f786e28c82217fa10806b59ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sebastian_Saja",
+      "filename": "Sebastian_Saja_0003.jpg",
+      "sha256": "f4a58fa0d56611c8c1e9e967c41f384669334f2c504430df3d9906c7ee51e7c8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sebastian_Saja",
+      "filename": "Sebastian_Saja_0001.jpg",
+      "sha256": "6e5a427cc176abe772ab8dd643e276325bd3c7ce168f6e04adc2975308574ecd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rick_Wagoner",
+      "filename": "Rick_Wagoner_0001.jpg",
+      "sha256": "e8c424eccdb4756f2ca61b12f0df7e5f30af6cf602b431fe5b5897d4d1c43daf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rick_Wagoner",
+      "filename": "Rick_Wagoner_0002.jpg",
+      "sha256": "b09539f324ca0257bf1ce79b5774eeeb0f934e4c90ea32c906c288283f806691",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Don_Henley",
+      "filename": "Don_Henley_0001.jpg",
+      "sha256": "1c1f670cef2a681ada941cdafa0bd894e6409c43b1740bfb61d3d2562c1b9b47",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Baldacci",
+      "filename": "John_Baldacci_0001.jpg",
+      "sha256": "e39dc30665effe2f8dfe18a321d5b497b795db1972fb5751fd6412eeef18cf5a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dustin_Brown",
+      "filename": "Dustin_Brown_0001.jpg",
+      "sha256": "9c2052da0da9c56839007092b43e396585bafcd4fd24659369c1736f9a5d7387",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dominic_Monaghan",
+      "filename": "Dominic_Monaghan_0001.jpg",
+      "sha256": "e5ccf616c269fbead6435c29fa7c08905d09c8d361647c7799f3d6cd041ad356",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Chris_Byrd",
+      "filename": "Chris_Byrd_0002.jpg",
+      "sha256": "30d1522c7849299f4cba4b9d4215baa1c316c81cf1096ec5f292d8bf7122fcba",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Chris_Byrd",
+      "filename": "Chris_Byrd_0001.jpg",
+      "sha256": "3f1ec5937970c142025cbc5084de360c77727ee926486c8c381b5e187f1019dc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Niall_Connolly",
+      "filename": "Niall_Connolly_0001.jpg",
+      "sha256": "38edd25663e306bea9c6149269f040dd62a7e834a9b36e18bff80b626c770dd4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Richard_Palmer",
+      "filename": "Richard_Palmer_0001.jpg",
+      "sha256": "aecac85e26743887fb51613f50282da247525e6fd4c1c197d8cacddeb82e3990",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Fazal-ur-Rehman",
+      "filename": "Fazal-ur-Rehman_0001.jpg",
+      "sha256": "bf59e92102d0e42194e58a3fe62be9c3455b4676aaa6b9debdb92c1f5730b534",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Boris_Jordan",
+      "filename": "Boris_Jordan_0001.jpg",
+      "sha256": "d354eda2d14bf903dc324ae6bbf364626ee09aa23b56aabb91cc99da0792a813",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Charlotte_Rampling",
+      "filename": "Charlotte_Rampling_0001.jpg",
+      "sha256": "6b00f0dec797e89e68ca552f923eeb4cd9077936cf908039d833ccf33acfd902",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Charlotte_Rampling",
+      "filename": "Charlotte_Rampling_0002.jpg",
+      "sha256": "3b90c1787d177b1bdfe23976e36cfa26b378d81ef5acd2a83c2bed84a0f0e4d6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hutomo_Mandala_Putra",
+      "filename": "Hutomo_Mandala_Putra_0001.jpg",
+      "sha256": "16db63154a0775a399ae79daad68d10003e7fb985e20013831d45dc38cccb5e1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lars_Burgsmuller",
+      "filename": "Lars_Burgsmuller_0001.jpg",
+      "sha256": "60cf786f50e0e9ef30ab48e38d06701e197e84b27bbd0fccc634d07e08d53d8d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Win_Aung",
+      "filename": "Win_Aung_0002.jpg",
+      "sha256": "44ca3570a474f4855987d8c8ee08556aa4be7cba4326a4a199e90f0a224573ba",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Win_Aung",
+      "filename": "Win_Aung_0003.jpg",
+      "sha256": "44c4dbe2ca8cdd24c5b4c7e1ea7fedcd33383ac585f5198c22f61db662fe6495",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Win_Aung",
+      "filename": "Win_Aung_0001.jpg",
+      "sha256": "16671c069d5a4c0ad8593fdafb172f1f7cd579b27812898cebacdfab9c3a7d56",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Win_Aung",
+      "filename": "Win_Aung_0004.jpg",
+      "sha256": "79cff16ec0c1c13f41a75abc43645eeeb86102380d2d9c5fb9bbe647e0cffb28",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Billy_Bob_Thornton",
+      "filename": "Billy_Bob_Thornton_0001.jpg",
+      "sha256": "539a07bfae040982033bcd037a41c6e900f04bcd327bbebfe7905e694ac41aaf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brett_Perry",
+      "filename": "Brett_Perry_0001.jpg",
+      "sha256": "eb2f47485692902fabd547dbd022855e322c1b83c4da2214a67c159f62cf5ecc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Linda_Lingle",
+      "filename": "Linda_Lingle_0001.jpg",
+      "sha256": "0b6a6f12a9fd36baf06a5b79aa92ac21b04df39f87cd3cd124df7e3850d93b2c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Robert_Ehrlich",
+      "filename": "Robert_Ehrlich_0002.jpg",
+      "sha256": "ef3755f7d24784325e54f970699454d52bad693f3b09b55b25c8b15db239de29",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Robert_Ehrlich",
+      "filename": "Robert_Ehrlich_0001.jpg",
+      "sha256": "44245a6fbaec72a9864a90c01a19de0547d711b0519491bd283f8f0929c34e77",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Glenn_Rivers",
+      "filename": "Glenn_Rivers_0001.jpg",
+      "sha256": "89ba417c6a05ccf82db50f447f467bc353f823b6db6b5226f4c0847b240195f0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Howard",
+      "filename": "David_Howard_0001.jpg",
+      "sha256": "9a15d91eefcc0081a0b4b3b98d4bffd8a737dc7050e7dadccc6c3099dcf09e64",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ian_Wilmut",
+      "filename": "Ian_Wilmut_0001.jpg",
+      "sha256": "b49bceccbfaf233c1f0e82a0b9e6597d77ef9bcd094ca06229fa6907e3071ae6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0009.jpg",
+      "sha256": "d65f5095901ffd9c504ce1f78d320331907ca737de29c37d315ab1e5f1412320",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0008.jpg",
+      "sha256": "a10521fb81927b55e0fbd790494f0552b83eb33ab70ba7438055b1d2ba2812a9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0012.jpg",
+      "sha256": "10a9caac3eaba0e177c9a2d5e7fec83fdbf3c2ef2e5ec3b2c2d1b6828c9021b9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0006.jpg",
+      "sha256": "cf385590f135bb422cfb73a593168fbd965230afb5df30d77c2ef8dacf5ff1dd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0007.jpg",
+      "sha256": "d8c11cd0865d092285c1cd972ca09a9492e67fd7d0ac608b3407968f2de4b159",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0013.jpg",
+      "sha256": "c9ec7e7963041a0d705b7f31c144219bef2d1fbdba5aa9878d8e15f6eff28a81",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0005.jpg",
+      "sha256": "827118f301d84d93cf237c4a3e323056a53fdf720533a85e1f894f9b209804fa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0011.jpg",
+      "sha256": "f8012b423ad79f9bb0e5d4cc8b406faeeb4a7d4ff9fac9651acfb51f2bbf99a6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0010.jpg",
+      "sha256": "72f77a920e9fab917fa5a8fca3835397d35bc575cf58c69f6511694ecb518138",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0004.jpg",
+      "sha256": "36a8def4ed4911b18ad0b79a19cc42ad9892a04ca26f8b9017d2f842c56e9a98",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0001.jpg",
+      "sha256": "9a712b87e293dab2971c159e84ac7d98c71ee8287b56d3f4a1b8d0689ac244d3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0003.jpg",
+      "sha256": "1fef029938f685f6bbe32bdb9a5b2a678e9ddf5e6a496c8de847ba569896e03c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Queen_Elizabeth_II",
+      "filename": "Queen_Elizabeth_II_0002.jpg",
+      "sha256": "4f1459ffad48dc0bc2e5364e6e5b2cc8c44432aff8c7e9dcf499a9af0b2d2804",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ingrid_Betancourt",
+      "filename": "Ingrid_Betancourt_0001.jpg",
+      "sha256": "03590776f9ec2811751270fa377abb98ae92787f9288367e43dc0886358de5db",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Grady_Irvin_Jr",
+      "filename": "Grady_Irvin_Jr_0002.jpg",
+      "sha256": "8c996772b51000c52b401bacc3d5f27f245805a846b7fce6f89ba952c9ebf7fe",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Grady_Irvin_Jr",
+      "filename": "Grady_Irvin_Jr_0001.jpg",
+      "sha256": "a13105bebc91bc483cbf4b1e5a38c03d9485715739ffe295317af759e93cb8dc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Care",
+      "filename": "Peter_Care_0001.jpg",
+      "sha256": "15a20fa2ea4039977d95042b70d48cba187f775e7174ef5517b49fcd9ecb2f9e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Prince_Edward",
+      "filename": "Prince_Edward_0001.jpg",
+      "sha256": "ea347dd6732ee0dd07cd2c5ea0ff72d265f820888dc99b412bd8463e422e83a4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Prince_Edward",
+      "filename": "Prince_Edward_0002.jpg",
+      "sha256": "823ec410ee953f6157c457262bd73fdb8a729caaf6a9e05114a96a5bc53fbece",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0010.jpg",
+      "sha256": "bbfd6e15bda075a3ebf5d1b771f5969692067dde10b0649bf83f1dddc2a030a2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0004.jpg",
+      "sha256": "3f85ef21fd68f8cb7b673974d91c1d65b53b5e2681044ac47c76b9c323511b3a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0005.jpg",
+      "sha256": "b8fdb4f91bf42c99803ac226f7074bb1bf20f87ce88a15f8b329b4b054ec88b4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0011.jpg",
+      "sha256": "4810e00f63f3928169c316c29410a4ade3a39eabf17a7e4b5fd8855dbac9c2f1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0007.jpg",
+      "sha256": "3801d838f028c057485edd9f3e6ea0f2cf066612fc1a115137630e95f9a5bcc3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0013.jpg",
+      "sha256": "b6178cb96424ede9f98db423b2809fb799744663eed24c0af45652a95e3a1146",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0012.jpg",
+      "sha256": "f8364f65ec401c28e7fe34a40a09c74b936836aabfbad26055c23e80f66a5aa9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0006.jpg",
+      "sha256": "1eedd4d546aeb636b7a43e0726f24e29a41650299b2f4cd0c457729cf132172a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0002.jpg",
+      "sha256": "bd203cdc89a662447b4a3732e88c07774a388f858183ea9499615df169f328ca",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0016.jpg",
+      "sha256": "92c568e839e7a798063dc143bca3298b9333f8eb5af201b9d1a7f4a7cf4e0b91",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0017.jpg",
+      "sha256": "d4ec46e6aa5a5a897eb7c3012986a7bd08a8d06e61f77d2bacff00025cac701b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0003.jpg",
+      "sha256": "ea36af39c70069b8b8733cc09c960a775a9a61c9dd39f6df809858b335a22079",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0015.jpg",
+      "sha256": "4aedc6701b81439ef9b027943a7a9cbab8c1a7b37d7b32f64ab0664355baa139",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0001.jpg",
+      "sha256": "e5a5eab975b81210ff0a9c5fab6aa01e3b82b3cced3643599df26bcdc15bc870",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0014.jpg",
+      "sha256": "914b00f4313a4af44b34018fc859c739d21d8360280890fac63448be61aa3bdf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0019.jpg",
+      "sha256": "0c7d30ffe7cafa9ee3908ff531f82411e0e120efa3f593a304e9378e00256c0b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0018.jpg",
+      "sha256": "c30c36f243e6946229920b48bb2543a8a3f5f8faac9516196946028f2032e676",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0008.jpg",
+      "sha256": "ccceff15d939be95b5f90660780db751c54a2d0d78beaf2fdb2b9e9d036cf0e1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0020.jpg",
+      "sha256": "8e9ac20ed0e0346bf0426cceaead97875a79e748447e4e27b5d7eb7118c501ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0021.jpg",
+      "sha256": "d7a4de2adc651c87716fee30f7453dc844f4f8e398aadfb56f9c59fe42efb779",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jennifer_Aniston",
+      "filename": "Jennifer_Aniston_0009.jpg",
+      "sha256": "5a32bb34d9e6291f42cb4a1109aeb2d294a70dcded06eb0994952265686432fa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Eric_Schacht",
+      "filename": "Eric_Schacht_0001.jpg",
+      "sha256": "4bd7c8d7c49f645fa43b687f5ded5f7fb66dff929954cf416acecaa3eec203ce",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Steve_Stirling",
+      "filename": "Steve_Stirling_0001.jpg",
+      "sha256": "a49fb61f03f0ddf3c8bf04b099e0aa06f98dda1865e09b598867c755af319889",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alberto_Acosta",
+      "filename": "Alberto_Acosta_0001.jpg",
+      "sha256": "ff4c665101b3eedafd9e649525c06ae5fa9c514a8cc137ed61f8da80d5eec86c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jim_Zorn",
+      "filename": "Jim_Zorn_0001.jpg",
+      "sha256": "9000da2c57912dbb159c07c8032c1e1d4f10d16b8f4209a0779b12ef3091d1f0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Billy_Tibbets",
+      "filename": "Billy_Tibbets_0001.jpg",
+      "sha256": "8db4a1e70dda4502c8d384bbe621264d0416cf9fcd1307120b053f09201863ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Justin_Leonard",
+      "filename": "Justin_Leonard_0001.jpg",
+      "sha256": "e7f7042800ad5d3b7cc26b53a754f86300f58ea9659ad782f94b38e9b857d853",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Justin_Leonard",
+      "filename": "Justin_Leonard_0003.jpg",
+      "sha256": "ae3454d7ce4ae89e913ed22b41eaf0c51caae9a94031fb13bd1e62632275b0e3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Justin_Leonard",
+      "filename": "Justin_Leonard_0002.jpg",
+      "sha256": "9476b2d56a1b7a3b7b123c915e2e9d41bc87e0340215f87d7845402a2cff3f36",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Justin_Leonard",
+      "filename": "Justin_Leonard_0004.jpg",
+      "sha256": "1d92a84a6ac4fa842fe1bb521ed9038a0cfde3b6b49ce7b20ec1a3e36f2c637f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Steve_Alford",
+      "filename": "Steve_Alford_0001.jpg",
+      "sha256": "cd388c3ffb2326bcfae99c49c8580608ff0685461cc25ca761c624634310907c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Osmond_Smith",
+      "filename": "Osmond_Smith_0001.jpg",
+      "sha256": "66a760f4e3e6bf06b66c6a073ad03d8e30d0f0c466848d0480cdb03822530d03",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Miranda_Gaddis",
+      "filename": "Miranda_Gaddis_0001.jpg",
+      "sha256": "25f42903b15f7137984d2327c371c7c6776cab793c9c604ade1abc1b8b65d94c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Geovani_Lapentti",
+      "filename": "Geovani_Lapentti_0001.jpg",
+      "sha256": "058534e584b0bd92d0f3717170433916e25592c3d89efe486bcd17e29aba9830",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Alma_Powell",
+      "filename": "Alma_Powell_0001.jpg",
+      "sha256": "afaa575ecb86aae66778ba4b0bd987426f50fa05b75c5845fab470edabc44dbf",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jimmy_Lee",
+      "filename": "Jimmy_Lee_0001.jpg",
+      "sha256": "5e3ec456082b286d0b68c75de2bbf18e71f027ae2f446a8a24192aa0b14a5f14",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Shobha_De",
+      "filename": "Shobha_De_0001.jpg",
+      "sha256": "d2635cd2a67188262e52188802611844b1363fdb422b9ebf8a98783a71a63084",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Anil_Ramsook",
+      "filename": "Anil_Ramsook_0001.jpg",
+      "sha256": "209c4e0f61bf750035cb18fb8e4e771e3546602968bd3f343188c57fe00be123",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Mullan",
+      "filename": "Peter_Mullan_0001.jpg",
+      "sha256": "b56222b59899f4206d13df8806df9245d388c6ae8e2287825ebd9e9f0d05bbfb",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Herman_Moore",
+      "filename": "Herman_Moore_0001.jpg",
+      "sha256": "22add325613e540b4305cb251f62074a7293658fb3fedda3a7c7174ea18120fc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mark_Martin",
+      "filename": "Mark_Martin_0001.jpg",
+      "sha256": "37ec902d6455cb32e3d2a3bfb045d96429022eb9f4249e9836d9f32edbdded32",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Din_Samsudin",
+      "filename": "Din_Samsudin_0001.jpg",
+      "sha256": "921d91cbf3f53dcd86fe47acfe4b957a68550cdb035a6af99a0f5ac8e285c3e1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jason_Statham",
+      "filename": "Jason_Statham_0001.jpg",
+      "sha256": "b6a7129e7382963f6e6c3d7fb0ae5b0d21d2a977cc695606cbd184c116aee134",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mike_Bair",
+      "filename": "Mike_Bair_0001.jpg",
+      "sha256": "622b85e0788493834268efd6b4c5a03c2d5ea4a17a9857a913ebb4aaf5a9bd18",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Yana_Klochkova",
+      "filename": "Yana_Klochkova_0001.jpg",
+      "sha256": "fd7846a61577c5a627196409bb9db18c0d6f8e9485ecf494f0414139d360e262",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Doug_Racine",
+      "filename": "Doug_Racine_0001.jpg",
+      "sha256": "d327e114b7d3dd14534548f55e57de678edcf54f7c30a0565714c2bdc11dc156",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Chan_Ho_Park",
+      "filename": "Chan_Ho_Park_0001.jpg",
+      "sha256": "4cc3c295cf875ed880c8f2651e27a11dbbf20a32d006cc7a32760e5cf4187f41",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Elena_Likhovtseva",
+      "filename": "Elena_Likhovtseva_0001.jpg",
+      "sha256": "47bc5767dc8a7c7c3d7a089d73a02e4d0e3a42eea5036a40f923cae055c36295",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_Ebert",
+      "filename": "Paul_Ebert_0001.jpg",
+      "sha256": "e73c83d4cebb7a46fd5e24a15f79d09a2d3d0f49bc6492f1843b17864cd0501b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Anita_DeFrantz",
+      "filename": "Anita_DeFrantz_0001.jpg",
+      "sha256": "efab2ba44751071b41d36b0a0b5bf75eb938c43d05a00037020f276d7e761f1f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lee_Nam-shin",
+      "filename": "Lee_Nam-shin_0001.jpg",
+      "sha256": "7fcaf6bc0e2fe257c412a05efaf160053ab8e5b6e1f198b72497573b02920565",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Crispin_Glover",
+      "filename": "Crispin_Glover_0001.jpg",
+      "sha256": "6b83a6bb9a2a26eab654ed57778bd8620bd5decc7b3ceb08d1b2be2bdc5347ad",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Kevin_Marshall",
+      "filename": "Kevin_Marshall_0001.jpg",
+      "sha256": "a9d2a86bf5117cdc2670b1eca9aeec3d04e94bf23eed4ad8365d66d37167dea6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sven_Ottke",
+      "filename": "Sven_Ottke_0001.jpg",
+      "sha256": "34e7ad4df27118402a12c8862e69c07a3b716b1c10baf968627cb738b0c39cec",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Raf_Vallone",
+      "filename": "Raf_Vallone_0001.jpg",
+      "sha256": "b259d491e735a7745fabd54a7ab1cf3f7ff924717eb179fd7221ad2b8c259091",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nick_Reilly",
+      "filename": "Nick_Reilly_0001.jpg",
+      "sha256": "1e8241b47dcd4692d89fe4bde0cc053870e1a2bd58db82e6acfe97fbcb0270bc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bob_Huggins",
+      "filename": "Bob_Huggins_0003.jpg",
+      "sha256": "3df6777ed57165ed1a6edf414bb004d56d11857565305b1d081704b5dffedb34",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bob_Huggins",
+      "filename": "Bob_Huggins_0002.jpg",
+      "sha256": "c99262e31a1cb09a7ff9e04fb22822d55d5bfbd8cede158794719971851f4f60",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bob_Huggins",
+      "filename": "Bob_Huggins_0001.jpg",
+      "sha256": "1da4eb9c6db4d5d5d252e6714d65ab156c1952ebefc195a5545d2591893ef064",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bob_Huggins",
+      "filename": "Bob_Huggins_0004.jpg",
+      "sha256": "465db15e19ec63478f5f263732343db8a930dac27d99a772f9248660f1136dd9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "David_Zeplowitz",
+      "filename": "David_Zeplowitz_0001.jpg",
+      "sha256": "8e3efbd014493b79243a0c6bcb3d0206c619f16fe623480a715e43a060432199",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tayshaun_Prince",
+      "filename": "Tayshaun_Prince_0001.jpg",
+      "sha256": "a1e4d596786059df21887dcfa19f9bda922ebdf3fd882f029943231354c1af7b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Emmanuelle_Jagodsinski",
+      "filename": "Emmanuelle_Jagodsinski_0001.jpg",
+      "sha256": "8c79584dc4060dd808de80fe825eb924964298fb48065c20c672293db94c4164",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lyle_Vanclief",
+      "filename": "Lyle_Vanclief_0001.jpg",
+      "sha256": "83e227120096fac3fc23fcc37cc4f0a7458339d7611b35296274c08ffb36660c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lyle_Vanclief",
+      "filename": "Lyle_Vanclief_0002.jpg",
+      "sha256": "78f9e5796724547f2eb9919e70bdccfcf54723a744e7cf5725471689a211476c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paula_Locke",
+      "filename": "Paula_Locke_0001.jpg",
+      "sha256": "3355f70197da842e2ab579b755c45dfe268cea2c42f6c7447deb3e2119296a1a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "James_Mathis",
+      "filename": "James_Mathis_0001.jpg",
+      "sha256": "6126c89f9d176837aa9ddd9d65399468643fabec1154f561f27c052efb648f69",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lou_Piniella",
+      "filename": "Lou_Piniella_0001.jpg",
+      "sha256": "03985483858e61ed4dabe77a535335f345047c4b4a84cdd23c28abb48b6cd436",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lou_Piniella",
+      "filename": "Lou_Piniella_0002.jpg",
+      "sha256": "e9f2fa95f4553558add3d5e0f87fd2233cf9c32b584c4d7438896add6e3cc84f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lou_Piniella",
+      "filename": "Lou_Piniella_0003.jpg",
+      "sha256": "4eec80d84a203cd7e711c79993c689bb1896fce731cc3118cfb578484fa71215",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Soenarno",
+      "filename": "Soenarno_0001.jpg",
+      "sha256": "0247eaecdd6eabbf0659d97cdaf7660432cd78a3c97682f3c846d6f808137cea",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tara_Reid",
+      "filename": "Tara_Reid_0001.jpg",
+      "sha256": "efe5fcc2d36b52dcef877a960cb71191c4a58129c83acdc1518b4188217ca1f7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Christian_Von_Wernich",
+      "filename": "Christian_Von_Wernich_0001.jpg",
+      "sha256": "0644288fa2c209a3b58d06b4679563682d867da11410001bcbdec5ef79c982c2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0008.jpg",
+      "sha256": "8bb41aac1d1f76c8e7575fc068bc85aba4250d365bf61616b40a592ee7c67995",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0009.jpg",
+      "sha256": "435094f1fea9805afb8b1113c66282160e1e836166266d432e67cfc313c23156",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0001.jpg",
+      "sha256": "eda2751fab1c737fefefd2150e1296360a183394558cfeb5126552422a593e9e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0002.jpg",
+      "sha256": "6bc4ec988d7c1b53fc0f6c41df6470bee0a3284c24c5e7f78cf1d438a79df672",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0003.jpg",
+      "sha256": "ae0affcc4d1d08f31f55a1d2f021ef05b974e981c801316242ae7db1a523c01e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0007.jpg",
+      "sha256": "7ae9a7185c39a98bdb0c419e3549b2a274d2b8427e52cbb0b7e03cd0f6f15836",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0006.jpg",
+      "sha256": "e616086440ecb855ac7f3f1914e92419c0c2bed9476f7576b17c7fe6a61557b0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0010.jpg",
+      "sha256": "390743cee2f8ba44ce6fb30a3786c892b861f2679879c9c9d0669359a5053ce4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0004.jpg",
+      "sha256": "10cdd49e4e7f25af1469254ba0840b791ea30a4250b5415d2a440f7a049d14f0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jacques_Rogge",
+      "filename": "Jacques_Rogge_0005.jpg",
+      "sha256": "a08bf9a254e02968c9e007e55a8f3fa39c282721118da3ac2b6a0b7aaf8ffd40",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nawabzada_Nasrullah_Khan",
+      "filename": "Nawabzada_Nasrullah_Khan_0001.jpg",
+      "sha256": "d56de9a88ca4614ed9a3c85328d148da7726f017f70f3da53865656b4944137d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Catherine_Donkers",
+      "filename": "Catherine_Donkers_0001.jpg",
+      "sha256": "661b9b594f1105aab40aab3cf16cfca497fe8dc3dd2667004a64d459bd844d77",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Agnelo_Queiroz",
+      "filename": "Agnelo_Queiroz_0001.jpg",
+      "sha256": "7066f83b3f0a27361c42451ede7077a213b3b50575b6501e92d4982e6dfeb864",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Henry_Hilow",
+      "filename": "Henry_Hilow_0001.jpg",
+      "sha256": "3f419c585f23ae527fe87fc4656b4d83341735870912b300837ff15b21d92865",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Eric_Hinske",
+      "filename": "Eric_Hinske_0001.jpg",
+      "sha256": "fee814957cc7484987624aac46ca855385255bd5b47589bbcc548dd9881a7ca4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Eric_Hinske",
+      "filename": "Eric_Hinske_0002.jpg",
+      "sha256": "2f727a9ebe27e3a63048e0621a3923cfb3b28b2f0981a1d24b0403fb2dd6888f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Chris_Cornell",
+      "filename": "Chris_Cornell_0001.jpg",
+      "sha256": "bb38be714ce466598bc01671209c2a920286fc44698e392920523ff21f0f27f7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bonnie_Fuller",
+      "filename": "Bonnie_Fuller_0001.jpg",
+      "sha256": "19aba943ad5e1666e66bb3316ef1c6e10db317b25b26966c2287cb8a094aa858",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Matt_Morris",
+      "filename": "Matt_Morris_0001.jpg",
+      "sha256": "f3e3943262877f4d635fb4fe8b63a8973731db773c2e286446816d551ae2a13e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Harbhajan_Singh",
+      "filename": "Harbhajan_Singh_0001.jpg",
+      "sha256": "1020b54b8f4e278cabcd739b230b99e1f0eaf7d06e55df7405c229f9d61b8246",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Harbhajan_Singh",
+      "filename": "Harbhajan_Singh_0002.jpg",
+      "sha256": "5253cda9ec431ca6726ed46805da7dbeb25e5f954fe1cf76ca127b1a7c7fc229",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Kim_Dong-hwa",
+      "filename": "Kim_Dong-hwa_0001.jpg",
+      "sha256": "e7b64c11ddf6ae302afd4b6a3736e4ae62647a2365ce9371b3ff78d51809b5a5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tim_Matheson",
+      "filename": "Tim_Matheson_0001.jpg",
+      "sha256": "469959bca464c75cd00f4529b2560333b8181fb9ea1f92221c6c7acfe8c86c10",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dick_Smothers",
+      "filename": "Dick_Smothers_0001.jpg",
+      "sha256": "b1952126b0a4c97965158f4e5fe69ba4068397c4b8d4675cc6a1c0aeace4e702",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jia_Qinglin",
+      "filename": "Jia_Qinglin_0002.jpg",
+      "sha256": "e6a80a22fb9f71044496c1ab962faba7001a6a500329bd16e46c54460e1eb7a6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jia_Qinglin",
+      "filename": "Jia_Qinglin_0001.jpg",
+      "sha256": "40da01fd37cc137cd01f2b2263a9402f873af8958d3776f41b021db76c3705b7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gerald_Calabrese",
+      "filename": "Gerald_Calabrese_0001.jpg",
+      "sha256": "83142d1cfa25fa47f8f49d952b8c4173c731fafc5572c032627b0e4bba9abe46",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rowan_Williams",
+      "filename": "Rowan_Williams_0001.jpg",
+      "sha256": "16e46eaec26b89150dcfec265d8b641dd81da6780d7f9ff85cb41ef42cdc24b6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Goldmark",
+      "filename": "Peter_Goldmark_0001.jpg",
+      "sha256": "a372a0b67bc1b5073b77183b9b31495ca957b4c743a14ce8a5768436a76fabb2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brian_Van_Dusen",
+      "filename": "Brian_Van_Dusen_0001.jpg",
+      "sha256": "529af0675d2b35c171f815744b382774a1200c0d39aef1481bbf725edaad714a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Osama_bin_Laden",
+      "filename": "Osama_bin_Laden_0002.jpg",
+      "sha256": "e23ccf643044e79d591030fe8a71e35f200f7d2f563430035b2f147b73954212",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Osama_bin_Laden",
+      "filename": "Osama_bin_Laden_0003.jpg",
+      "sha256": "ffc68e4f796eaeec7d37647328454540f4f4ab287034eaad906e08a7dcd0a257",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Osama_bin_Laden",
+      "filename": "Osama_bin_Laden_0001.jpg",
+      "sha256": "aa15d0e9d29bc2a487bd5fe5ca9d2bc58fd1d45dabe001899d91e58de687e3b5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Osama_bin_Laden",
+      "filename": "Osama_bin_Laden_0004.jpg",
+      "sha256": "15599ab46e7a72f48de53def656ffdd4181ae323568ceaf13be235adea987807",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stanley_McChrystal",
+      "filename": "Stanley_McChrystal_0002.jpg",
+      "sha256": "2d339065acc00a39a2625e4b5766959d61cbed790e7f6f67f4cc5924b8cedffa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stanley_McChrystal",
+      "filename": "Stanley_McChrystal_0003.jpg",
+      "sha256": "239d9d9e98dfe2a9097db9835c7c887230ec6373dae18f6fc8314097b03a321b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stanley_McChrystal",
+      "filename": "Stanley_McChrystal_0001.jpg",
+      "sha256": "c98485d84eda169129dbc53200a5ec23b55c1032dd6af2aab796f90734661092",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Carlos_Ghosn",
+      "filename": "Carlos_Ghosn_0001.jpg",
+      "sha256": "985183dd3939c78f916efdbdbe6627ec441f549b05dbd24ef2572a5ec27b1b75",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Carlos_Ghosn",
+      "filename": "Carlos_Ghosn_0002.jpg",
+      "sha256": "81e417dac217208a7a959169ba63d314b26cf21b94fb4dfb5bf83844504b63e0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jean_Todt",
+      "filename": "Jean_Todt_0001.jpg",
+      "sha256": "f1a073d0dbd4a4552a7f8f59c5d7b5952350d38bfa00a106b8d0ab650d222e6b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Wally_Szczerbiak",
+      "filename": "Wally_Szczerbiak_0001.jpg",
+      "sha256": "092c821e1d5d217e4335373ce4183f5e34b0860efba41f30ad5a4a8c746464c3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Zara_Akhmadova",
+      "filename": "Zara_Akhmadova_0001.jpg",
+      "sha256": "bc760f20180bf2678b5fa40016d1a201370430e5ace8c5391270bb00b210e198",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Donald_Keck",
+      "filename": "Donald_Keck_0001.jpg",
+      "sha256": "fe769d86e6e2fb18623f3a77f81598050002148db3445191f70e0dc5607bb37b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0004.jpg",
+      "sha256": "caf61463bdee7db146c0b9e7d52a0d78156edd6bd48e39b62bf7a2a3663c69e8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0010.jpg",
+      "sha256": "e5807ee4fdf2c7169c0fc4cba8c2c4b397ec60157290a31572d99148b2db8eaa",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0011.jpg",
+      "sha256": "872c3548631182091037592094b19bda61ddd199c5b7803b8c78726fc84c42ee",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0005.jpg",
+      "sha256": "fc21609ab50743b3b775724caacf787eae5112ff452456ba9a99c8c0eba7fefd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0013.jpg",
+      "sha256": "24d4c0560957496553d0d41d20c54517528bcbeaab4d4f7bcfdb2fe2cd354bc2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0007.jpg",
+      "sha256": "95b3e8b6b3565cb49f61f9fab611429831931102638d45a0a2e52596138e1179",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0006.jpg",
+      "sha256": "dddb9fd7559f7a4c7abf3d8b45b07916e9861d361e58934ad6256191c0d2a374",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0012.jpg",
+      "sha256": "425ed9ef6371d4671547b8d449c56ee1d85baacccb3961aace3260598d0658c0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0002.jpg",
+      "sha256": "1fad492e81f8a6525cfe419210b81329ba17beee495931234dd7066d21d18685",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0003.jpg",
+      "sha256": "20f058a5fba351a4d1734588a4bb782c61a2f48b0e78485000ba027acdf460ef",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0001.jpg",
+      "sha256": "f19b9aaa62ff4ca7b8e3e11ffcbaa38500d30077aa7c8767df00c0604294760d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0015.jpg",
+      "sha256": "1926d76f375f9f67a6bbc713835bff20f50d26bcc74de9bdf2bf1f9339167e6f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0014.jpg",
+      "sha256": "8099219e2f2ad0135d17ba6985156e8d1e0fca7f155987dc482713358f2373f7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0008.jpg",
+      "sha256": "5561fb2080fe950a60e38c9aba23605ba7f93650c09ca73c94485c72d549642d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andy_Roddick",
+      "filename": "Andy_Roddick_0009.jpg",
+      "sha256": "ee1731eb25df116f3b826bd91fe8da75e73bc90ed0b90a83227c367e9c1a6fe2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0003.jpg",
+      "sha256": "7c538d497a055f0de3c4fe4608e770534afb029d658e81dcbf1205a53a5732d7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0002.jpg",
+      "sha256": "5f985fd7180c99ce2b8c956cddd048dc1f318d41b3bb0125d91d63f6d9bbf6e8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0001.jpg",
+      "sha256": "6978c1ce69620ad5b098625da0ea9470d4a75a8db0c395a77436b2c772b5ed63",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0011.jpg",
+      "sha256": "5a61358340d8514d229ff2926b6e2171ff68266dc798f66dbb6f292e8ac510c5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0005.jpg",
+      "sha256": "a74bae2bee7fa513b49e416ec05810c976e52c25d480a87b6fb5841c174f68cd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0004.jpg",
+      "sha256": "6103dfeab92f31e20d7c2bc3e37c5ac952e687c6753d8bacac8d8730a278e7b4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0010.jpg",
+      "sha256": "a2c9fef5e9218f2e008f6821848406bd10353364b845e021ec1e6de243ce656a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0006.jpg",
+      "sha256": "d3feeb47b8b818f676a3c8c53f00550a7233863abb504d42179cd78666adf3e9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0007.jpg",
+      "sha256": "43bcafde418479c9692645be89fc1cde075c6838c1c6688f4bec197d310e6104",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0009.jpg",
+      "sha256": "939db409da4272d09e6f6f805ed6d31f6fc342858f49cb102b1a4105bd28a5e4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_Paul_II",
+      "filename": "John_Paul_II_0008.jpg",
+      "sha256": "ef970616a217081ad0f310a67127e64ff2c1ba67ea94719d44a8adf80e7e27d6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Paul_Tracy",
+      "filename": "Paul_Tracy_0001.jpg",
+      "sha256": "2657c6295a16535e9955c102cc588f62def8ec75b56f21ef183edce603e31860",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ismail_Khan",
+      "filename": "Ismail_Khan_0001.jpg",
+      "sha256": "865064c0858c3efe5b684b1ee5763566ea29bed7c83b8a4deae33e5c5e66a5f2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Svetislav_Pesic",
+      "filename": "Svetislav_Pesic_0001.jpg",
+      "sha256": "36facc9e78f1c9b36af556a8db57ef71499cc83267986c78791d6b0a3031f669",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sven_Goran_Eriksson",
+      "filename": "Sven_Goran_Eriksson_0001.jpg",
+      "sha256": "dd759eb457d5d673d973439ae648dac28f8bf4e59c960e83a837cd62b7a53d63",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Aline_Chretien",
+      "filename": "Aline_Chretien_0001.jpg",
+      "sha256": "8334a91f58496d520b71d88bbe38a61223f7e9693a472202c4be4dbe04b805a5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jeffery_Hendren",
+      "filename": "Jeffery_Hendren_0001.jpg",
+      "sha256": "2245fb72068288dc11fd393cdeced07c40790ca2059ef1dc932e48af10e3cf28",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ian_Huntley",
+      "filename": "Ian_Huntley_0001.jpg",
+      "sha256": "7d08c91d54fca2eb76b203fcbac508622e8d05b13b574be869af30694a8b0c2c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Andrew_Luster",
+      "filename": "Andrew_Luster_0001.jpg",
+      "sha256": "e786031ce754edadf73d1500a7927bcf560b15af8eef704724f98bc64fa6759c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Emilio_Azcarraga_Jean",
+      "filename": "Emilio_Azcarraga_Jean_0001.jpg",
+      "sha256": "812e36da2b18d65564abac96e013eaa922a832a3658fc6c3cd7d2d3ab9af829b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Wilbert_Foy",
+      "filename": "Wilbert_Foy_0001.jpg",
+      "sha256": "671b1b5e32032fcf3bbb5d3ab3883ca8a543bb561822f912d2a948af1cfcb33e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Pham_Thi_Mai_Phuong",
+      "filename": "Pham_Thi_Mai_Phuong_0001.jpg",
+      "sha256": "7c1e10b7de76f4387f44f843f7a7e31cbc9be0e0a0be0393cbfdda9bc14ce368",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "William_McDonough",
+      "filename": "William_McDonough_0001.jpg",
+      "sha256": "36acc8a4fd7df915e2309c1b33e73ca67e2480f44b98361612c179f837211580",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Linda_Franklin",
+      "filename": "Linda_Franklin_0001.jpg",
+      "sha256": "748bfdac3cf92755849c1e885523de7d1951735f8f1a646f0eb31658f6437255",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Liane_Janda",
+      "filename": "Liane_Janda_0001.jpg",
+      "sha256": "30369594f2cc403712b7d2a3c45c2cb53c9f816db61d704d179c6351ea255e35",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Jana_Pittman",
+      "filename": "Jana_Pittman_0001.jpg",
+      "sha256": "82244e56fc6bd0ace4afaa9a2adeecea49f1098bbe15929bb41ec30637741b72",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Leuris_Pupo",
+      "filename": "Leuris_Pupo_0001.jpg",
+      "sha256": "e18416a8ad516f79bbc2246e4358fb6d1b6d8d46ae2471912992e7467a6c51b1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martin_Sheen",
+      "filename": "Martin_Sheen_0001.jpg",
+      "sha256": "b27a64fe6b116609a0e1c1bafd7b326006a33423cb0b360497174d3451b9dfa0",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Martin_Sheen",
+      "filename": "Martin_Sheen_0002.jpg",
+      "sha256": "1d5c70885b317bacb26e5524d3bb919db4168f324786ba7aacdda442ed0a1eb8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Lisa_Girman",
+      "filename": "Lisa_Girman_0001.jpg",
+      "sha256": "7a524d5434a6222719f1cd90e7234b424131aa3d1557a6d78106667bc5225aad",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brian_Clemens",
+      "filename": "Brian_Clemens_0001.jpg",
+      "sha256": "4a8372a8c985910c6c78f0bb55670c6fa105a74732b301a97f7bb2de63174ac7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Larry_Donald",
+      "filename": "Larry_Donald_0001.jpg",
+      "sha256": "30b70eb5b02c4ece98706a743bddf65777190b0b40c68fecc03060e19e99bf81",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Colleen_Ryan",
+      "filename": "Colleen_Ryan_0001.jpg",
+      "sha256": "e7d77601fb791da7ad79cb09766dd4ae27afcdaf54dd880991b09e384431d6dd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Max_Baucus",
+      "filename": "Max_Baucus_0001.jpg",
+      "sha256": "1d27bdd2e760e4ce1d301b02547e69a1e7b680f13cfe279e8c71b485fe6e5a05",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bill_Sizemore",
+      "filename": "Bill_Sizemore_0001.jpg",
+      "sha256": "128601f35889ffadd0a30738efc155a5f3bc56183ab11974649be061987559d8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bill_Sizemore",
+      "filename": "Bill_Sizemore_0002.jpg",
+      "sha256": "a5fb6db14b04c0296b85599eefdab7050f0667ec7fd29940650d0ad15fcd230b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Sandra_Day_OConner",
+      "filename": "Sandra_Day_OConner_0001.jpg",
+      "sha256": "427fe198bda5d42e03e194719c85ceadfb7361ccd09bfabbd936551208b360da",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mirela_Manjani",
+      "filename": "Mirela_Manjani_0001.jpg",
+      "sha256": "4ce4957b3681f4cdef1112fa35580ca75c7223b3488bdfb8aec9cd62c9f73257",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Estella_Warren",
+      "filename": "Estella_Warren_0001.jpg",
+      "sha256": "b291de0ca09ac4fdbedd6e03565ddfe8b78b78505492e13346e3351edfed164b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Zoran_Djindjic",
+      "filename": "Zoran_Djindjic_0001.jpg",
+      "sha256": "ae0f6db54bb5c966fb5fecffe400201e62f608c02499aed76e6bbe7519379106",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Zoran_Djindjic",
+      "filename": "Zoran_Djindjic_0003.jpg",
+      "sha256": "cef983c6871a8c5fd767e2ff6caab2255a1c805423d8f053f91caea86352c248",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Zoran_Djindjic",
+      "filename": "Zoran_Djindjic_0002.jpg",
+      "sha256": "8a7cd5005d342643e5d282109e39167354213f3adac7765eaa5a6d75e95e3298",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Zoran_Djindjic",
+      "filename": "Zoran_Djindjic_0004.jpg",
+      "sha256": "c10c86ba1d530e1cdb42996e73d908f3567f2357eae17213b78eefca47e3afd1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Nate_Hybl",
+      "filename": "Nate_Hybl_0001.jpg",
+      "sha256": "e897a8f973b3540d483a03763bdf64a9c3870942184982b65a08b4951e92fd8b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ed_Case",
+      "filename": "Ed_Case_0001.jpg",
+      "sha256": "fb7738b0acf59fc77725bc69da3aa6c87bccdf564f1543a5615675cef97d2231",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stephen_Funk",
+      "filename": "Stephen_Funk_0001.jpg",
+      "sha256": "f40155662db99b233c341243c6112ac89fbe77f5152010f9787d59c6a09178bd",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_McEnroe",
+      "filename": "John_McEnroe_0002.jpg",
+      "sha256": "2ac06a2d9e32f1281c6297d1f0c357892b715404d1f0ee16a170e99c2916176d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "John_McEnroe",
+      "filename": "John_McEnroe_0001.jpg",
+      "sha256": "033852c4adc76a34882410623dac60ba5d31d9511bc4e588fbeca1381d5724f3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0008.jpg",
+      "sha256": "81ed8cef644168d739c37baaff7982bcea0537411dfd192ed45107b469db3684",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0009.jpg",
+      "sha256": "27dec07a412849d9751c03f078c5baa0c08167c8fb1ded27114d4e9fd21009ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0002.jpg",
+      "sha256": "cdcb9d3a276ed952caeeb66e5373520435b93b44647c019226f93535b8ae458e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0003.jpg",
+      "sha256": "ebb67173150ead56d68a6102898faaa1124630027a575c89636b475441d38e3b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0001.jpg",
+      "sha256": "b13997c7a2203d7a6b4c7a7a05cd615c07462a4e3c505af50485ca834ae4dedc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0004.jpg",
+      "sha256": "7a1291259b527d4bb82cfe5dbce8bd552c2d503de1724c64236e79c26933c7fc",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0010.jpg",
+      "sha256": "ad34fc682afbfe7b48019183ff5e08aca65d62da88fd197cb389017b4225bb03",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0005.jpg",
+      "sha256": "310e69bbe0228ca8d57a1ba672d45738bb92c9612453b2e5871158b3455ae067",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0007.jpg",
+      "sha256": "45ad88bd5bdeba28bda86f3d78e68a7e5358e52213f19278c120564769f1cd3b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walter_Mondale",
+      "filename": "Walter_Mondale_0006.jpg",
+      "sha256": "93dab1c210484f36be660bc55e201a8774f9ebdf2602aebabb920a0c1a4b1121",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0001.jpg",
+      "sha256": "11ce9eb5f58a26bbdcc67916390e075c619a6c118bb54e6cc1342347886ceb77",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0002.jpg",
+      "sha256": "0d4798402ebceed5a357565cd15f1cef1235fad3bba956bc997a56615d9e57a6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0003.jpg",
+      "sha256": "7a3ebb79ea2a42da1143474eb436190d89def22bee9a045b02c28df4c44161d1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0006.jpg",
+      "sha256": "026e3e47e0c98b7dca9de98b02cc489deaf5624774cf0cfd9a2fe557637cfe25",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0004.jpg",
+      "sha256": "78dc546cc4e5111082b15e8902d90f0ada619faadb6d7bc0c2b01c79b17ab229",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Diana_Krall",
+      "filename": "Diana_Krall_0005.jpg",
+      "sha256": "6f8cd2b7479690ab4dc38ef7342d3ba8ae038f55fda4e07e0353f69c759c97ca",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Heather_Willson",
+      "filename": "Heather_Willson_0001.jpg",
+      "sha256": "20581f7b65ff0813ce11fcda6ac48a68976a906f4128527f90f7efb9548de6c6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Felipe_De_Borbon",
+      "filename": "Felipe_De_Borbon_0001.jpg",
+      "sha256": "df3cb52cd3182dbec3f1c0175e9fe8237ffbedbd7c8f84e761ee16bc62304601",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Carolina_Moraes",
+      "filename": "Carolina_Moraes_0002.jpg",
+      "sha256": "a37920256b13db865d9505b8a1738139f16ce66ba8443576f95ffa5a3990af9e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Carolina_Moraes",
+      "filename": "Carolina_Moraes_0001.jpg",
+      "sha256": "2d77f6e539e1ae7c3c092957342d12c293e1313924ca770fa4c2ad24a2a5d9ae",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ali_Mohammed_Maher",
+      "filename": "Ali_Mohammed_Maher_0001.jpg",
+      "sha256": "4e79f62ff18f09cb4cd6e8ab01e600df1b04bf98f150f55f729a3a54690d8c2c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rick_Husband",
+      "filename": "Rick_Husband_0001.jpg",
+      "sha256": "f43edb9f5a6d2bf9fdfea8528ab7c02a9b93a1244ef85bef619b2a8fa5d3ce2d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stephanie_Zimbalist",
+      "filename": "Stephanie_Zimbalist_0001.jpg",
+      "sha256": "682f56c66692d2a2a0d1cb1dfbe52f388ea25c851db9f95ed5954fa535102a48",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Shanna_Zolman",
+      "filename": "Shanna_Zolman_0001.jpg",
+      "sha256": "3340ffe3308aab15728363a7babe03d9fd28cd688387d0b9d255ff3f6610b63e",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Isaiah_Washington",
+      "filename": "Isaiah_Washington_0002.jpg",
+      "sha256": "9b61f176a9d7de8e57df41b7e4e670aa012f6235439cc599b362deebe68ff983",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Isaiah_Washington",
+      "filename": "Isaiah_Washington_0001.jpg",
+      "sha256": "7c8075e4c2d3aae47e173ac9e6e28b5adec709c04d33ed382f0537bddd06d6a7",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Edgar_Savisaar",
+      "filename": "Edgar_Savisaar_0001.jpg",
+      "sha256": "74286bbc4d0c434482b44014d99d1056c57aaefde5673218c9c4afb61793b207",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dave_Tucker",
+      "filename": "Dave_Tucker_0001.jpg",
+      "sha256": "914573471f43263a1b88c70363f0f8a08f0eba74a39cbb9b20a3d3ab26f36448",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Brandon_Larson",
+      "filename": "Brandon_Larson_0001.jpg",
+      "sha256": "4d0ebc0fc4cf3c9aea6b112f82a8269d4ac46d6a8a1e09b71068c3d356e60073",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Phoenix_Chang",
+      "filename": "Phoenix_Chang_0001.jpg",
+      "sha256": "e752fe42476c19f3fd653c330091ee2d83b3fdd346d90a8f11056f0ad4262207",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Penelope_Ann_Miller",
+      "filename": "Penelope_Ann_Miller_0002.jpg",
+      "sha256": "59d399e1b3b27570ffb7534c8491d9e8467d2f77dc7ef8e787a43d222fdc4595",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Penelope_Ann_Miller",
+      "filename": "Penelope_Ann_Miller_0001.jpg",
+      "sha256": "5c3a790bf5af4b34c111c9fee7a029d5f449b3df13140290fe142dec88800bb6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Natalie_Juniardi",
+      "filename": "Natalie_Juniardi_0001.jpg",
+      "sha256": "c73187555c282ba8cbf0268d28cddd4150c703b2d0359157a37c9ebbf8629375",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ted_Maher",
+      "filename": "Ted_Maher_0002.jpg",
+      "sha256": "6b7190f94772daf9432d994299219f2de0ca1c7b2fd9a67cb317ac374921992f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Ted_Maher",
+      "filename": "Ted_Maher_0001.jpg",
+      "sha256": "5d8a750b16bd2fb940cec67a0156bcef4cc58f3d4b090256622d17ce524d6e16",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Noor_Mohammed",
+      "filename": "Noor_Mohammed_0001.jpg",
+      "sha256": "4e91a715b52e91aa134e6cec8e4d6f15f09da56b1648ddf3c0a0e0b68cda80a5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Walt_Harris",
+      "filename": "Walt_Harris_0001.jpg",
+      "sha256": "deda3adca3bca0f9fb174e25c03db3344e121bdb667edc9751ffec6cbcac12b1",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Olivera_Labus",
+      "filename": "Olivera_Labus_0001.jpg",
+      "sha256": "e961e20e0a65004537b1280e686af6122691c8498c48ab5d1ce193953f460b3f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Stephen_Covey",
+      "filename": "Stephen_Covey_0001.jpg",
+      "sha256": "67b1fc2befb970442916bccf388de6f3d2ee17f550d8f4c427850b4ef916c790",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Woodrow_Stanley",
+      "filename": "Woodrow_Stanley_0001.jpg",
+      "sha256": "d229d4c3750c53979631e8cb231b3ba47b64a71408822246f2585bb83f834fa9",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Yuvraj_Singh",
+      "filename": "Yuvraj_Singh_0001.jpg",
+      "sha256": "0ba7d6ccc6fadf1e12814e5aeeedf89a61049832ccb9bed4ac4de2400d82e3f4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bobby_Bowden",
+      "filename": "Bobby_Bowden_0001.jpg",
+      "sha256": "c6058b0b76edec72f116eb142719b05ac3065230ac6054d5953b97638c8aa999",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hussein_Malik",
+      "filename": "Hussein_Malik_0001.jpg",
+      "sha256": "1bc3861ca54c390fc8ebb5484335ab5da788abd233563f7b27441c0ab62f1a2c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0009.jpg",
+      "sha256": "0003aa8ddbc1df625cff781d224d6125103cfba2f34a525bd955398bc843f3ac",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0008.jpg",
+      "sha256": "d15197e93e86faef36913ca8179a3875cf5da0795c88eb0adcdda9ad56376c15",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0001.jpg",
+      "sha256": "d33b181f7b2607fa22a117dad73129529568c1ff831e8af51a80d6656237d98c",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0003.jpg",
+      "sha256": "24ce90798c98a4622121225ffcb41aeb85b36af2acec7028ffec19c345ae2c98",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0002.jpg",
+      "sha256": "3ab4659d72069c7677175884a7a54936e59172941a8cc7385cc8d33f6486874a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0006.jpg",
+      "sha256": "335f7542016dd05f9e51e81c898424f858d69bde97e2f6e5ebed2dfb20b0dc26",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0007.jpg",
+      "sha256": "e9d06bca69ab903153e96308d327f7441ac4ae1c2354755b85c894ed53ca5ee4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0005.jpg",
+      "sha256": "d910b47b0bfdae59d652b5236b76ec6d10c094e416b732ed13ca47d0b9a4b119",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0004.jpg",
+      "sha256": "5b9be109f0c83e146c298a3736a74041c6bcb38b482341325235928bf0a9817f",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Tom_Hanks",
+      "filename": "Tom_Hanks_0010.jpg",
+      "sha256": "e615b3ebc35ccf37bca777b9691820afdb6a4714ae0231f5b687c7afc2cef671",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Gary_Gitnick",
+      "filename": "Gary_Gitnick_0001.jpg",
+      "sha256": "fe88f8796c751541bd14121d20b37c5e1f73dee994bbe325e1fc0044b496cd35",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Mike_Richter",
+      "filename": "Mike_Richter_0001.jpg",
+      "sha256": "a6b500af774463c0f000e48c5cb4cce24128e6be2e62c975576c3faa703fa22a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Luke_Walton",
+      "filename": "Luke_Walton_0001.jpg",
+      "sha256": "44a7c66da2bb5aa9490a98f78ab4a7df645d8ebd05f24a814b893e8761663c89",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Luke_Walton",
+      "filename": "Luke_Walton_0002.jpg",
+      "sha256": "e46a956e6a2895b6636ea6195c6005c905fd0395bdc596361476ba2833abb483",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Denys_Arcand",
+      "filename": "Denys_Arcand_0001.jpg",
+      "sha256": "5ba68f251400ee7b00d4178f21a76db75acc9e6f38f015ac28e79aa6e427462d",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Bill_Butler",
+      "filename": "Bill_Butler_0001.jpg",
+      "sha256": "c9aa3e32029979b1ee45c74ef23968358fdbae09a4cdf857ec09895bb7d66bf5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Michael_Goldrich",
+      "filename": "Michael_Goldrich_0001.jpg",
+      "sha256": "532816506f6582dc7d9d5a5ef4aac81f58e445f518f880146bf66fdd7cffc93b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Yekaterina_Guseva",
+      "filename": "Yekaterina_Guseva_0001.jpg",
+      "sha256": "c9e8db53f35eaa7a5774c8232cfda4b0fca6863d92ab4ef0057ab3e83f836ffe",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Darren_Clarke",
+      "filename": "Darren_Clarke_0001.jpg",
+      "sha256": "e17b862ea895a1bf2425fb3006386e412872d6659266fc8aefc44f252c2bc526",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Darren_Clarke",
+      "filename": "Darren_Clarke_0002.jpg",
+      "sha256": "1dd553430559e259be7f980115f695fd0e3173c21aded508f7cccd3c085ca0c3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Intisar_Ajouri",
+      "filename": "Intisar_Ajouri_0002.jpg",
+      "sha256": "89fd8f647d0effaeac6787ef38592bb1a8a34815aa39b43682afc3e6fbcb8e69",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Intisar_Ajouri",
+      "filename": "Intisar_Ajouri_0003.jpg",
+      "sha256": "655b6e4ea90874fd09a2da269df92675bb713bdcb6b318e41e9452e5b85718df",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Intisar_Ajouri",
+      "filename": "Intisar_Ajouri_0001.jpg",
+      "sha256": "40727ff74658eb164002f212bb6d38825f5a69a3d273e1ce5b77098373677aa6",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Cristiano_da_Matta",
+      "filename": "Cristiano_da_Matta_0001.jpg",
+      "sha256": "02c7c9dda2ccdf7c7f468922a56bc5dd89e1a9009f98e951911e717584c9d5a3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Hugh_Carey",
+      "filename": "Hugh_Carey_0001.jpg",
+      "sha256": "a38b7565a7d65a62869a12d6ebeb8373155e2cc122b250a9c0f00e03d41e6328",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Danny_Glover",
+      "filename": "Danny_Glover_0001.jpg",
+      "sha256": "a1c8c14e3c629723ceb4535be9ad53d77d9e24a1a5e4f191b07d18514c39ab07",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Peter_Hunt",
+      "filename": "Peter_Hunt_0001.jpg",
+      "sha256": "06374f70ed1e9916c451c3e7fb572e993cefbb38652fe832a6360695ff6ebef2",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Steven_Feldman",
+      "filename": "Steven_Feldman_0001.jpg",
+      "sha256": "824069cc4cb769fa61d3c89e19257e19e46242de1d7f202be3f2fd41ff2e96e8",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Dinah_Turner",
+      "filename": "Dinah_Turner_0001.jpg",
+      "sha256": "b528536ef0b86a08da4bbdd6d5d6949b4b17c941c7b9ad8cfd2f94d3916cf2c5",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Rosny_Desroches",
+      "filename": "Rosny_Desroches_0001.jpg",
+      "sha256": "63075e476945dffeb7ae3cf3e77d9e45d977c8645ca2cd1085809ca5f653ba1a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Cosmo_Iacavazzi",
+      "filename": "Cosmo_Iacavazzi_0001.jpg",
+      "sha256": "bd0175763a0afeb191c83888b4c63c336265788d7b793eb9d27b35274e21099b",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Daniel_Day-Lewis",
+      "filename": "Daniel_Day-Lewis_0001.jpg",
+      "sha256": "818773a389fadfe57d8912a7726d31a1d3aa966fd9b3101a97a0daae8bd4f6b3",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Daniel_Day-Lewis",
+      "filename": "Daniel_Day-Lewis_0003.jpg",
+      "sha256": "ec59e68e295b6017e348d36da7abd4d2eaac243fdeed78c24063bcfcddfa7077",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Daniel_Day-Lewis",
+      "filename": "Daniel_Day-Lewis_0002.jpg",
+      "sha256": "ccfdea7f8c461da93710adcb66d919eb9c828082cb158e839a68c568163f58a4",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Robert_Wiener",
+      "filename": "Robert_Wiener_0001.jpg",
+      "sha256": "88039faf4f2b6e3501ca1e8a680e6b75237a3a5e19a0894672d272aefff8e028",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    },
+    {
+      "identity": "Derrick_Battie",
+      "filename": "Derrick_Battie_0001.jpg",
+      "sha256": "881bc98b109227dc0e81f6fd74e3d50bfb0b1e635c82e92bdd0b61b8bfe8f55a",
+      "source": "https://huggingface.co/datasets/bitmind/lfw/tree/274dfbca8b2dc9c6d21ae80f8627c911222eb347"
+    }
+  ]
+}

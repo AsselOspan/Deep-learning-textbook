@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="75" dominant-baseline="middle" text-anchor="start" font-family="Arial" font-size="49" font-weight="700" fill="#17444B">Проверка сходства и разнообразия</text>
+<rect x="70.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="345.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Коды prior</text>
+<text x="345.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Фиксированная панель</text>
+<text x="345.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Новые случайные коды</text>
+<text x="345.0" y="365" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Интерполяции</text>
+<path d="M633.0,301h47" stroke="#357878" stroke-width="6"/><path d="M688.0,301l-17,-13v26Z" fill="#357878"/>
+<rect x="700.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="975.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Диагностика</text>
+<text x="975.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Попарные расстояния</text>
+<text x="975.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Ближайшие train</text>
+<text x="975.0" y="365" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Ближайшие held-out</text>
+<path d="M1263.0,301h47" stroke="#357878" stroke-width="6"/><path d="M1318.0,301l-17,-13v26Z" fill="#357878"/>
+<rect x="1330.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="1605.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Интерпретация</text>
+<text x="1605.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Шум тоже даёт разброс</text>
+<text x="1605.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Близость зависит от меры</text>
+<text x="1605.0" y="365" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Нужен общий протокол</text>
+<text x="70" y="497" dominant-baseline="middle" text-anchor="start" font-family="Arial" font-size="32" font-weight="400" fill="#17444B">Один небольшой пиксельный тест не доказывает отсутствие запоминания.</text>
+</svg>

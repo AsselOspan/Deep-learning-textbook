@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="75" dominant-baseline="middle" text-anchor="start" font-family="Arial" font-size="49" font-weight="700" fill="#17444B">Triplet loss на двумерных векторах</text>
+<rect x="70.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="345.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Anchor a</text>
+<text x="345.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">a = (1; 0)</text>
+<text x="345.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">Margin m = 0,25</text>
+<path d="M633.0,301h47" stroke="#357878" stroke-width="6"/><path d="M688.0,301l-17,-13v26Z" fill="#357878"/>
+<rect x="700.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="975.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Positive p</text>
+<text x="975.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">p = (0,8; 0,2)</text>
+<text x="975.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">‖a − p‖² = 0,08</text>
+<path d="M1263.0,301h47" stroke="#357878" stroke-width="6"/><path d="M1318.0,301l-17,-13v26Z" fill="#357878"/>
+<rect x="1330.0" y="166" width="550.0" height="260" rx="20" fill="#EFF5F4" stroke="#BDD5D4" stroke-width="3"/>
+<text x="1605.0" y="214" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17444B">Negative n</text>
+<text x="1605.0" y="277" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">n = (0,6; 0,1)</text>
+<text x="1605.0" y="321" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="31" font-weight="400" fill="#17444B">‖a − n‖² = 0,17</text>
+<text x="70" y="497" dominant-baseline="middle" text-anchor="start" font-family="Arial" font-size="32" font-weight="400" fill="#17444B">L = max(0; 0,08 − 0,17 + 0,25) = 0,16</text>
+<text x="70" y="541" dominant-baseline="middle" text-anchor="start" font-family="Arial" font-size="32" font-weight="400" fill="#17444B">Положительный пример ближе, но запас пока меньше margin.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="540" viewBox="0 0 1950 540">
+<rect width="100%" height="100%" fill="white"/>
+<text x="75" y="90" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="51" font-weight="700" fill="#17444B">Маска исключает позицию до softmax</text>
+<rect x="75" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="268" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Оценки</text>
+<text x="268" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">1, 0, 3</text>
+<text x="268" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Третья позиция PAD</text>
+<path d="M 473 270 H 523" stroke="#357878" stroke-width="6"/><path d="M 526 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="546" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="739" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Маска</text>
+<text x="739" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">1, 0, −∞</text>
+<text x="739" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Затем softmax</text>
+<path d="M 944 270 H 994" stroke="#357878" stroke-width="6"/><path d="M 997 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="1018" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="1211" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Веса</text>
+<text x="1211" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">0,7311 · 0,2689 · 0</text>
+<text x="1211" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Сумма равна 1</text>
+<path d="M 1416 270 H 1466" stroke="#357878" stroke-width="6"/><path d="M 1469 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="1489" y="171" width="386" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="1682" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Контекст</text>
+<text x="1682" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">1,4621 · 1,0758</text>
+<text x="1682" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Две компоненты</text>
+<text x="75" y="456" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="35" font-weight="400" fill="#506468">Запрещённая позиция получает нулевую вероятность. Нужен хотя бы один допустимый ключ.</text>
+</svg>

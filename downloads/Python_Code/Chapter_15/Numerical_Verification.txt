@@ -1,0 +1,9 @@
+toy mean=[0.4000000000000001, 0.6000000000000001] train_mse=0.026666667 test_mse=0.130000000
+BCE loss=1.332179040 grad_logit=-0.600000000 p_after=0.209772982
+MSE loss=0.360000000 grad_logit=-0.192000000 p_after=0.203089702
+CNN params=43281 shape=(4, 1, 32, 32) changed_tensors=6 loss=708.945190430->708.902709961
+CNN64 shape-only check params=45209 shape=(4, 1, 64, 64); not trained
+LFW train-mean baseline train mse=0.043028165
+LFW train-mean baseline val mse=0.044867843
+LFW train-mean baseline test mse=0.048841968
+PASS: numerical, gradients, shapes and one CNN update

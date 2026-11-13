@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="540" viewBox="0 0 1950 540">
+<rect width="100%" height="100%" fill="white"/>
+<text x="75" y="90" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="51" font-weight="700" fill="#17444B">Матрица ошибок задаёт направление подсчёта</text>
+<rect x="75" y="171" width="543" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="346" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Строка k</text>
+<text x="346" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Истинный класс k</text>
+<text x="346" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Диагональ + FN</text>
+<path d="M 630 270 H 680" stroke="#357878" stroke-width="6"/><path d="M 683 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="703" y="171" width="543" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="974" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Элемент k,k</text>
+<text x="974" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Верные ответы</text>
+<text x="974" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">TP</text>
+<path d="M 1258 270 H 1308" stroke="#357878" stroke-width="6"/><path d="M 1311 270 l -16 -12 v 24 Z" fill="#357878"/>
+<rect x="1332" y="171" width="543" height="204" rx="20" fill="#EFF5F4" stroke="#C3D9D8" stroke-width="3"/>
+<text x="1603" y="219" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17444B">Столбец k</text>
+<text x="1603" y="276" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Предсказан класс k</text>
+<text x="1603" y="316" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#506468">Диагональ + FP</text>
+<text x="75" y="456" dominant-baseline="middle" text-anchor="start" font-family="Arial, sans-serif" font-size="35" font-weight="400" fill="#506468">Recall делит TP на сумму строки. Precision делит TP на сумму столбца.</text>
+</svg>
