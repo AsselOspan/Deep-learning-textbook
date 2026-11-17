@@ -11,3 +11,38 @@ html[data-theme=dark]{--navy:#d8e9f6;--navy-deep:#102b3f;--teal:#6dd6ce;--teal-s
 .article .appendix-title{margin-top:60px;padding-top:30px;border-top:1px solid var(--line);font-size:27px}
 
 .code-actions{display:flex;align-items:center;gap:12px}.code-actions>a{font-size:10px;text-decoration:none}
+
+/* GIF examples on the textbook homepage */
+.home-gifs { margin: 0 0 34px; scroll-margin-top: 86px; }
+.home-gif-grid { display: grid; grid-template-columns: minmax(0,1fr); max-width: 980px; }
+.home-gif-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+.home-gif-card figcaption { flex: 1 0 auto; }
+.home-gif-card h3 { margin: 0 0 6px; font-size: 18px; color: var(--navy); }
+.home-gif-card figcaption p { margin: 0 0 12px; line-height: 1.6; font-size: 14px; color: var(--muted); }
+.home-gif-card img {
+  display: block;
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: #f4f7f9;
+}
+.home-gif-card.is-playing { grid-column: 1 / -1; grid-row: 1; }
+.home-gif-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 12px; margin-top: 12px; }
+.home-gif-chapter { color: var(--teal); font-size: 13px; }
+.home-gif-error { margin: 8px 0 0; font-size: 13px; color: var(--danger); }
+.home-gif-error:empty { display: none; }
+@media (max-width: 850px) {
+  .home-gif-grid { grid-template-columns: 1fr; }
+  .home-gif-card.is-playing { grid-column: auto; grid-row: auto; }
+}

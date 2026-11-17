@@ -23,7 +23,69 @@ searchIndex.push(...data.glossary.map(t=>({route:'glossary'+(t.id?'@'+t.id:''),t
 searchIndex.push(...(data.bibliography||[]).map(s=>({route:'bibliography@reference-'+s.id,title:s.title,type:'Источник ['+s.id+']',text:s.text})));
 for(const [route,field,title]of [['preface','frontmatterHtml','Предварительные разделы'],['appendices','appendicesHtml','Приложения'],['projects','projectsHtml','Итоговые проекты'],['conclusion','conclusionHtml','Заключение']])if(data[field])searchIndex.push({route,title,type:'Методические разделы',text:plain(data[field])});
 function networkCover(){return `<figure class="cover"><div class="cover-title">Вход · представление · прогноз</div><svg viewBox="0 0 300 180" role="img" aria-label="Сеть с тремя входами, четырьмя скрытыми узлами и двумя выходами"><g stroke="#67c9c0" stroke-opacity=".32">${[35,90,145].flatMap(y=>[20,66,112,158].map(v=>`<path d="M36 ${y} 150 ${v}"/>`)).join('')}${[20,66,112,158].flatMap(y=>[62,118].map(v=>`<path d="M150 ${y} 264 ${v}"/>`)).join('')}</g><g fill="#15344a" stroke="#85d5cf" stroke-width="1.5">${[35,90,145].map(y=>`<circle cx="36" cy="${y}" r="10"/>`).join('')}${[20,66,112,158].map(y=>`<circle cx="150" cy="${y}" r="10"/>`).join('')}${[62,118].map(y=>`<circle cx="264" cy="${y}" r="10" fill="#67c9c0"/>`).join('')}</g><g font-family="Georgia,serif" font-size="13" fill="#a8c8d9"><text x="8" y="94">x</text><text x="146" y="180">h</text><text x="286" y="94">y</text></g></svg><div class="cover-rule"></div><figcaption>От математической модели к проверяемому эксперименту</figcaption></figure>`;}
-function home(){const first=data.chapters.find(c=>!state.done.includes(c.id))?.id||1;return `<section class="hero"><div><p class="eyebrow">Университетский курс · русская версия</p><h1>Глубокое<br>обучение</h1><p class="intro">Поймите, как учатся нейронные сети. Пройдите путь от вычисления градиента вручную до собственных моделей на Python и PyTorch.</p><div class="hero-actions"><a class="button primary" href="#chapter/${first}">${state.done.length?'Продолжить обучение':'Читать учебник'}</a><a class="button" href="#guide">Как работать с учебником</a></div><p class="author"><strong>${esc(data.author)}, PhD</strong><br>${esc(data.university)}</p></div>${networkCover()}</section><div class="home-metrics"><div><strong>15</strong><span>глав от основ до генеративных моделей</span></div><div><strong>15</strong><span>анимаций к лекциям и 15 лабораторных работ</span></div><div><strong>${data.glossary.length||'—'}</strong><span>терминов в двуязычном глоссарии</span></div></div><div class="section-heading"><h2>Программа обучения</h2><a href="#interactive">Перейти к интерактивным моделям</a></div><section class="chapter-catalog" aria-label="Все главы">${data.chapters.map(c=>`<a class="catalog-row" href="#chapter/${c.id}"><span class="catalog-index">${String(c.id).padStart(2,'0')}</span><span><strong>${esc(c.title)}</strong><small>${c.sections.length} разделов · лабораторная работа ${c.id}</small></span><span class="catalog-meta">${state.done.includes(c.id)?'<span class="completed-tag">Изучено</span>':'<span>Теория и практика</span>'}${arrow}</span></a>`).join('')}</section><div class="section-heading"><h2>Учитесь через действие</h2></div><div class="feature-links"><a class="feature-link" href="#interactive"><span class="feature-index">01</span><strong>Изменяйте параметры</strong><p>Наблюдайте градиентный спуск, производные и свёртку на числах.</p></a><a class="feature-link" href="#lab/1"><span class="feature-index">02</span><strong>Проверяйте код</strong><p>Скачивайте программы и ноутбуки, повторяйте вычисления и опыты.</p></a><a class="feature-link" href="#glossary"><span class="feature-index">03</span><strong>Согласуйте понятия</strong><p>Находите русские определения и английские эквиваленты терминов.</p></a></div>`;}
+const homeDemos = [
+  {
+    id: 'alexnet-architecture',
+    title: 'От изображения к классу',
+    description: 'Проследите, как изображение 227×227 проходит через свёртки и пулинг, а полносвязные слои формируют оценки для Softmax.',
+    alt: 'Схема AlexNet. Вход 227×227×3, пять свёрточных слоёв, три блока максимального пулинга и три полносвязных слоя. Softmax выдаёт вероятности для 1000 классов.',
+    chapter: '#chapter/6@chapter-6-section-4'
+  }
+];
+
+function homeGifGallery() {
+  const cards = homeDemos.map(demo => `
+    <figure class="home-gif-card" data-gif-card="${demo.id}">
+      <figcaption>
+        <h3>${esc(demo.title)}</h3>
+        <p>${esc(demo.description)}</p>
+      </figcaption>
+      <img src="${demo.id}.png" width="1320" height="800" loading="lazy"
+           decoding="async" alt="${esc(demo.alt)}">
+      <div class="home-gif-actions">
+        <button class="button primary" type="button" data-home-gif="${demo.id}">Воспроизвести GIF</button>
+        <a class="button" href="${demo.id}.gif" target="_blank" rel="noopener">Открыть GIF отдельно</a>
+        <a class="home-gif-chapter" href="${demo.chapter}">Подробнее в главе</a>
+      </div>
+      <p class="home-gif-error" role="status"></p>
+    </figure>`).join('');
+  return `<section class="home-gifs" id="gif-examples" aria-labelledby="gif-examples-title">
+    <div class="section-heading"><h2 id="gif-examples-title">Как устроен AlexNet</h2></div>
+    <div class="home-gif-grid">${cards}</div>
+  </section>`;
+}
+
+let homeGifReplay = 0;
+document.addEventListener('click', event => {
+  const button = event.target.closest('[data-home-gif]');
+  if (!button) return;
+  const card = button.closest('[data-gif-card]');
+  const image = card.querySelector('img');
+  const status = card.querySelector('[role="status"]');
+  const name = button.dataset.homeGif;
+  const stop = () => {
+    image.onerror = null;
+    image.src = name + '.png';
+    card.classList.remove('is-playing');
+    button.textContent = 'Воспроизвести GIF';
+  };
+  status.textContent = '';
+  if (card.classList.contains('is-playing')) {
+    stop();
+    return;
+  }
+  const playing = card.parentElement.querySelector('.is-playing [data-home-gif]');
+  if (playing) playing.click();
+  card.classList.add('is-playing');
+  button.textContent = 'Остановить GIF';
+  image.onerror = () => {
+    stop();
+    status.textContent = 'Не удалось открыть анимацию. Попробуйте ещё раз.';
+  };
+  image.src = name + '.gif?v=' + (++homeGifReplay);
+});
+
+function home(){const first=data.chapters.find(c=>!state.done.includes(c.id))?.id||1;return `<section class="hero"><div><p class="eyebrow">Университетский курс · русская версия</p><h1>Глубокое<br>обучение</h1><p class="intro">Поймите, как учатся нейронные сети. Пройдите путь от вычисления градиента вручную до собственных моделей на Python и PyTorch.</p><div class="hero-actions"><a class="button primary" href="#chapter/${first}">${state.done.length?'Продолжить обучение':'Читать учебник'}</a><a class="button" href="#guide">Как работать с учебником</a></div><p class="author"><strong>${esc(data.author)}, PhD</strong><br>${esc(data.university)}</p></div>${networkCover()}</section><div class="home-metrics"><div><strong>15</strong><span>глав от основ до генеративных моделей</span></div><div><strong>15</strong><span>анимаций к лекциям и 15 лабораторных работ</span></div><div><strong>${data.glossary.length||'—'}</strong><span>терминов в двуязычном глоссарии</span></div></div>${homeGifGallery()}<div class="section-heading"><h2>Программа обучения</h2><a href="#interactive">Перейти к интерактивным моделям</a></div><section class="chapter-catalog" aria-label="Все главы">${data.chapters.map(c=>`<a class="catalog-row" href="#chapter/${c.id}"><span class="catalog-index">${String(c.id).padStart(2,'0')}</span><span><strong>${esc(c.title)}</strong><small>${c.sections.length} разделов · лабораторная работа ${c.id}</small></span><span class="catalog-meta">${state.done.includes(c.id)?'<span class="completed-tag">Изучено</span>':'<span>Теория и практика</span>'}${arrow}</span></a>`).join('')}</section><div class="section-heading"><h2>Учитесь через действие</h2></div><div class="feature-links"><a class="feature-link" href="#interactive"><span class="feature-index">01</span><strong>Изменяйте параметры</strong><p>Наблюдайте градиентный спуск, производные и свёртку на числах.</p></a><a class="feature-link" href="#lab/1"><span class="feature-index">02</span><strong>Проверяйте код</strong><p>Скачивайте программы и ноутбуки, повторяйте вычисления и опыты.</p></a><a class="feature-link" href="#glossary"><span class="feature-index">03</span><strong>Согласуйте понятия</strong><p>Находите русские определения и английские эквиваленты терминов.</p></a></div>`;}
 function downloadLink(path,label){return `<a class="button" href="downloads/${path}" download>${label}</a>`;}
 function quiz(c){const q=c.quiz;return `<section class="quiz" aria-labelledby="quiz-title"><h2 id="quiz-title">Проверьте понимание</h2><p>Короткий вопрос дополняет задания и тесты в тексте главы.</p><form id="quiz-form"><fieldset><legend>${esc(q.question)}</legend>${q.options.map((o,i)=>`<label><input type="radio" name="quiz" value="${i}" required><span>${esc(o)}</span></label>`).join('')}</fieldset><button class="button primary" type="submit">Проверить ответ</button><div class="quiz-feedback" id="quiz-feedback" aria-live="polite"></div></form></section>`;}
 function reader(c,lab){const route=(lab?'lab/':'chapter/')+c.id, sections=lab?c.labSections:c.sections,title=lab?c.labTitle:c.title, counts=lab?c.labCounts:c.counts,marked=state.bookmarks.includes(route),done=state.done.includes(c.id);return `<p class="breadcrumb"><a href="#home">Учебник</a><span>/</span>${lab?'Лабораторная работа':'Глава'} ${c.id}</p><div class="reader-layout"><div class="reader"><header class="reader-header"><p class="eyebrow">${lab?'Лабораторная работа':'Глава'} ${String(c.id).padStart(2,'0')}</p><h1>${esc(title)}</h1><div class="reader-tools"><button class="button" id="bookmark-toggle" data-route="${route}" aria-pressed="${marked}">${marked?'Закладка сохранена':'Сохранить закладку'}</button><a class="button" href="#${lab?'chapter':'lab'}/${c.id}">${lab?'Теория главы':'Лабораторная работа'}</a>${downloadLink('Jupyter_Notebooks/Lab_'+String(c.id).padStart(2,'0')+'_Deep_Learning.ipynb','Ноутбук .ipynb')}${downloadLink((lab?'02_Laboratory_Works/Lab_':'01_Chapters_DOCX/Chapter_')+String(c.id).padStart(2,'0')+(lab?'_Deep_Learning':'')+'.docx','Исходный DOCX')}</div><p class="reading-meta">${sections.length} разделов · ${counts.equation} формул · ${counts.figure} рисунков · ${counts.code} листингов</p></header>${lab?'':window.DLLessonAnimation.markup(c.id,esc)}<article class="article">${lab?c.labHtml:c.html}</article>${!lab?quiz(c):''}<section class="completion"><div><strong>${done?'Глава отмечена как изученная':'Зафиксируйте результат'}</strong><p>Отметка сохраняется локально. К материалу можно вернуться в любое время.</p></div><button class="button primary" id="complete-toggle" data-id="${c.id}" aria-pressed="${done}">${done?'Снять отметку':'Отметить главу изученной'}</button></section><nav class="chapter-pager" aria-label="Соседние главы">${c.id>1?`<a href="#chapter/${c.id-1}"><small>Предыдущая глава</small><strong>${esc(data.chapters[c.id-2].title)}</strong></a>`:'<span></span>'}${c.id<15?`<a href="#chapter/${c.id+1}"><small>Следующая глава</small><strong>${esc(data.chapters[c.id].title)}</strong></a>`:'<a href="#home"><small>Все главы</small><strong>Вернуться к программе обучения</strong></a>'}</nav></div><aside class="toc" aria-label="На этой странице"><h2>На этой странице</h2>${!lab&&window.DL_ANIMATIONS?.[c.id]?`<a href="#${route}@lesson-animation">Анимация к главе</a>`:''}${sections.map(s=>`<a href="#${route}@${s.id}" data-section="${s.id}">${esc(s.title)}</a>`).join('')}</aside></div>`;}
